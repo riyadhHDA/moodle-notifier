@@ -1,0 +1,2366 @@
+{
+ "courses": {
+  "16191": {
+   "initialized": true,
+   "items": {
+    "562849": {
+     "files": [],
+     "fingerprint": "e2c6bad6c2fd76870bc2942e656d959e86711fe5",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=562849"
+    },
+    "562850": {
+     "files": [
+      {
+       "filename": "Bibliographie.docx",
+       "filesize": 22718,
+       "timemodified": 1757943393
+      }
+     ],
+     "fingerprint": "467e2c8e5807af0d00050f0b88a0894a08430142",
+     "modname": "resource",
+     "name": "Bibliographie",
+     "section": "Généralités",
+     "timemodified": 1757943393,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=562850"
+    }
+   },
+   "name": "Nature, jardins et paysages à l'époque moderne"
+  },
+  "17080": {
+   "initialized": true,
+   "items": {
+    "593566": {
+     "files": [],
+     "fingerprint": "69ece3c7350b68603f9863e525ca2cbf5e71e89a",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Début des cours - Jeudi 24/09 à 16h - Patio A3",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=593566"
+    },
+    "962535": {
+     "files": [
+      {
+       "filename": "IA-2027-chap0-intro.pdf",
+       "filesize": 7867726,
+       "timemodified": 1790255612
+      }
+     ],
+     "fingerprint": "4c6cc73dea8946a5795feb4c07e42fd440d622b9",
+     "modname": "resource",
+     "name": "Présentation générale",
+     "section": "Premier cours -&gt; Introduction/présentation générale",
+     "timemodified": 1790255612,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=962535"
+    },
+    "974012": {
+     "files": [
+      {
+       "filename": "IA-2027-chap1.pdf",
+       "filesize": 5557554,
+       "timemodified": 1790871550
+      }
+     ],
+     "fingerprint": "09640d54acf20c9bf658f9f6042b9303b2f76725",
+     "modname": "resource",
+     "name": "Chapitre 1",
+     "section": "Chapitre 1",
+     "timemodified": 1790871550,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=974012"
+    },
+    "996313": {
+     "files": [
+      {
+       "filename": "IA-2027-chap2.pdf",
+       "filesize": 4351528,
+       "timemodified": 1792079249
+      }
+     ],
+     "fingerprint": "ddeec720b63dfc49c2e849e804511025247f6709",
+     "modname": "resource",
+     "name": "Chapitre2",
+     "section": "Chapitre2 -&gt; en visio à 16h30 ! (15/10)",
+     "timemodified": 1792079249,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=996313"
+    }
+   },
+   "name": "Introduction à l'intelligence artificielle et à ses applications"
+  },
+  "24256": {
+   "initialized": true,
+   "items": {
+    "912920": {
+     "files": [],
+     "fingerprint": "1d473c2227eb4a2029573742aa6e46d89fdea5f4",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=912920"
+    },
+    "979703": {
+     "files": [],
+     "fingerprint": "cc158f95d261228cd1813e58f51cfae44fbe8c83",
+     "modname": "url",
+     "name": "Fabrication du papier xuan (papier de riz chinois)",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=979703"
+    },
+    "979797": {
+     "files": [],
+     "fingerprint": "a8ddee7b00d5f2d071dd7774f92b3c122a964c5e",
+     "modname": "url",
+     "name": "Gravure sur bois",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=979797"
+    },
+    "988998": {
+     "files": [],
+     "fingerprint": "2ff86dd9789acdaa8f1702aed20edd69c8f6c966",
+     "modname": "bigbluebuttonbn",
+     "name": "Classe virtuelle",
+     "section": "Cours en distanciel en cas de blocage",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/bigbluebuttonbn/view.php?id=988998"
+    },
+    "988999": {
+     "files": [],
+     "fingerprint": "9a7f309adff5746f60ea73ff4522c70517456417",
+     "modname": "label",
+     "name": "En cas de blocage du Palais universitaire, rendez-...",
+     "section": "Cours en distanciel en cas de blocage",
+     "timemodified": 0,
+     "url": ""
+    },
+    "991940": {
+     "files": [],
+     "fingerprint": "a6e442de19e590e91ccd6e7739fc3aabc4cf6055",
+     "modname": "url",
+     "name": "Gravure en taille douce",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=991940"
+    },
+    "993424": {
+     "files": [],
+     "fingerprint": "c8edabc30d6aaabf7aa5e7755d78c1f5fd04ecd9",
+     "modname": "label",
+     "name": "Cours du mercredi 14 octobre",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": ""
+    }
+   },
+   "name": "L3 SH30EM20 2026-2027 La gravure à l'époque moderne : diffusion des modèles et circulation des savoirs"
+  },
+  "25074": {
+   "initialized": true,
+   "items": {
+    "932414": {
+     "files": [],
+     "fingerprint": "acb72cd63471544d5b98e0d5ab12f4d50a5c42ec",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=932414"
+    },
+    "952135": {
+     "files": [
+      {
+       "filename": "Intro et Schadeberg.pdf",
+       "filesize": 2178632,
+       "timemodified": 1789728010
+      }
+     ],
+     "fingerprint": "31f3bc12f5445b9071bb5df6512ed72eb23f382a",
+     "modname": "resource",
+     "name": "Images du cours Schadeberg",
+     "section": "Cours 1 Introduction et Hermann Schadeberg",
+     "timemodified": 1789728010,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=952135"
+    },
+    "962716": {
+     "files": [
+      {
+       "filename": "Cours 2 Maître du Paradiesgärtlein moodle.pdf",
+       "filesize": 3744863,
+       "timemodified": 1790261510
+      }
+     ],
+     "fingerprint": "3df6b4389cb250751fb7ad1730ad5c7ae6b8f7b1",
+     "modname": "resource",
+     "name": "Maître du Paradiesgärtlein images du cours",
+     "section": "Cours 2 Le maître du Paradiesgärtlein",
+     "timemodified": 1790261510,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=962716"
+    },
+    "962726": {
+     "files": [
+      {
+       "filename": "Cours 3 Konrad Witz moodle.pdf",
+       "filesize": 5095540,
+       "timemodified": 1790262049
+      }
+     ],
+     "fingerprint": "b69af2076488948c24c9283423639582ec582867",
+     "modname": "resource",
+     "name": "Konrad Witz Images du cours",
+     "section": "Cours 3 Konrad Witz",
+     "timemodified": 1790262049,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=962726"
+    },
+    "985994": {
+     "files": [
+      {
+       "filename": "Le Maître de la Passion de Karlsruhe Moodle.pdf",
+       "filesize": 1302520,
+       "timemodified": 1791447963
+      }
+     ],
+     "fingerprint": "cb0ecaf7a36bd6659dc4b89a99c813f794d5536b",
+     "modname": "resource",
+     "name": "Maître de la Passion de Karlsruhe",
+     "section": "Cours 4  Maître de la Passion de Karlsruhe",
+     "timemodified": 1791447963,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=985994"
+    },
+    "985995": {
+     "files": [],
+     "fingerprint": "87cc8371be8114b17052f487ba4bd1be26ffc49e",
+     "modname": "url",
+     "name": "Vidéo restauration Witz",
+     "section": "Cours 3 Konrad Witz",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=985995"
+    },
+    "985998": {
+     "files": [],
+     "fingerprint": "6e892001afb4bab59340274b41f65558c63d37a7",
+     "modname": "url",
+     "name": "Article Ph. Lorentz",
+     "section": "Cours 4  Maître de la Passion de Karlsruhe",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=985998"
+    },
+    "986000": {
+     "files": [],
+     "fingerprint": "7d28ee786225b2eaef689230150b4674927d0c36",
+     "modname": "url",
+     "name": "Dossier retable de Genève",
+     "section": "Cours 3 Konrad Witz",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=986000"
+    },
+    "986004": {
+     "files": [],
+     "fingerprint": "71ba73644dc8fb3d8fa9e2abc56c7a282903c049",
+     "modname": "url",
+     "name": "Zeitschrift für schweizerische Archäologie und Kunstgeschichte",
+     "section": "Cours 3 Konrad Witz",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=986004"
+    },
+    "986019": {
+     "files": [],
+     "fingerprint": "687b3222ceb6edb39240d3f807a1732d553590af",
+     "modname": "url",
+     "name": "Article Ph. Lorentz Géographie artistique de l'Oberrhein",
+     "section": "Cours 1 Introduction et Hermann Schadeberg",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=986019"
+    }
+   },
+   "name": "SH30EM10 L'art du XVe siècle dans le Rhin supérieur"
+  },
+  "25110": {
+   "initialized": true,
+   "items": {
+    "933382": {
+     "files": [],
+     "fingerprint": "fcf5aa7fb0a11a3a5118f5149f16b253ec0e376a",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=933382"
+    },
+    "936068": {
+     "files": [
+      {
+       "filename": "CM1 (diaporama).pdf",
+       "filesize": 8788708,
+       "timemodified": 1789028619
+      }
+     ],
+     "fingerprint": "af1e7f3a9f11f7510c5faa561ed7662293aac3e4",
+     "modname": "resource",
+     "name": "CM1 (diaporama)",
+     "section": "CM1 : Présentation",
+     "timemodified": 1789028619,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936068"
+    },
+    "956978": {
+     "files": [
+      {
+       "filename": "CM2 (diaporama).pdf",
+       "filesize": 10020533,
+       "timemodified": 1790000388
+      }
+     ],
+     "fingerprint": "0b848bcafd7f6daa599ff66cf63118980348ec50",
+     "modname": "resource",
+     "name": "CM2 (diaporama)",
+     "section": "CM2 : L’essor du culte marial",
+     "timemodified": 1790000388,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=956978"
+    },
+    "962569": {
+     "files": [
+      {
+       "filename": "CM3 (diaporama).pdf",
+       "filesize": 9342722,
+       "timemodified": 1790256337
+      }
+     ],
+     "fingerprint": "6635bc81a60ac6a521c443002d0b1c123f4e8c90",
+     "modname": "resource",
+     "name": "CM3 (diaporama)",
+     "section": "CM3 : Une révolution architecturale",
+     "timemodified": 1790256337,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=962569"
+    },
+    "979156": {
+     "files": [
+      {
+       "filename": "CM4 (diaporama).pdf",
+       "filesize": 8624080,
+       "timemodified": 1791237657
+      }
+     ],
+     "fingerprint": "7d8c13da5740ef51cfc9172c20ed29080769d0d4",
+     "modname": "resource",
+     "name": "CM4 (diaporama)",
+     "section": "CM4 : Le naturalisme gothique",
+     "timemodified": 1791237657,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=979156"
+    },
+    "986249": {
+     "files": [],
+     "fingerprint": "5a0f39d7fe781992064cd5aba29f8fefe377ef1a",
+     "modname": "choice",
+     "name": "Sondage exposition - musée de l'Œuvre Notre-Dame",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/choice/view.php?id=986249"
+    },
+    "993919": {
+     "files": [
+      {
+       "filename": "Planning - bibliographie.pdf",
+       "filesize": 395671,
+       "timemodified": 1791972841
+      }
+     ],
+     "fingerprint": "60ae6f9d9f13ac42e78fb957b99a0528c0117cb7",
+     "modname": "resource",
+     "name": "Planning - bibliographie (màj 14/10/26)",
+     "section": "Généralités",
+     "timemodified": 1791972841,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=993919"
+    },
+    "993922": {
+     "files": [],
+     "fingerprint": "5a98be536bcaf045177f68740ef31b3ec23d1581",
+     "modname": "subsection",
+     "name": "Documentation",
+     "section": "CM5 : Paris et Avignon",
+     "timemodified": 0,
+     "url": ""
+    },
+    "993929": {
+     "files": [],
+     "fingerprint": "8ed3b60504535f91c8e7c65936f331ad4be89353",
+     "modname": "lightboxgallery",
+     "name": "Dictionnaire d'histoire de l'art du Moyen Âge occidental - Pascale Charron &amp; Jean-Marie Guilloüet (2009)",
+     "section": "Documentation",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/lightboxgallery/view.php?id=993929"
+    },
+    "993983": {
+     "files": [
+      {
+       "filename": "Un autoportrait moral et politique de Louis IX - Yves Christe.pdf",
+       "filesize": 5872132,
+       "timemodified": 1791975184
+      }
+     ],
+     "fingerprint": "f83a7fa3fceb6526989a8788eb7b2fc40cc7fc3d",
+     "modname": "resource",
+     "name": "Un autoportrait moral et politique de Louis IX - Yves Christe (2007)",
+     "section": "Documentation",
+     "timemodified": 1791975184,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=993983"
+    },
+    "993988": {
+     "files": [],
+     "fingerprint": "72d0ac02d03372ee194bcba093ebabd8cc1bd595",
+     "modname": "subsection",
+     "name": "Documentation",
+     "section": "CM6 : Culte des saints, culte des morts",
+     "timemodified": 0,
+     "url": ""
+    },
+    "993990": {
+     "files": [],
+     "fingerprint": "c334175cb34cf41b1131c5d243e37e2206e41302",
+     "modname": "lightboxgallery",
+     "name": "Dictionnaire d'histoire de l'art du Moyen Âge occidental - Pascale Charron &amp; Jean-Marie Guilloüet (2009)",
+     "section": "Documentation",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/lightboxgallery/view.php?id=993990"
+    }
+   },
+   "name": "SH30EM10 - L3 S5 - CM - L'art du Moyen Âge en Occident : l'époque gothique"
+  },
+  "25210": {
+   "initialized": true,
+   "items": {
+    "936124": {
+     "files": [],
+     "fingerprint": "b26d34a07a29962deeb88e92f83eda094c00c864",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=936124"
+    },
+    "936139": {
+     "files": [],
+     "fingerprint": "db4623a3828003773f6ceb8411b1c4f9d1e18756",
+     "modname": "subsection",
+     "name": "Examen intermédiaire (plan détaillé de dissertation)",
+     "section": "Séance 11 : L'art de l'installation (1)",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936140": {
+     "files": [],
+     "fingerprint": "0cfa60b00ec133c7b1e2e00dac1684d1d7099ec1",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Medardo Rosso, « L’impressionnisme en sculpture, une explication » (1907), La sculpture impressionniste, L’Échoppe, 1994, pp. 126-130.",
+     "section": "Séance 3 : Aux sources de la sculpture moderne (2)",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936143": {
+     "files": [],
+     "fingerprint": "bcbee834fc51e63efc9f9574e90c2f21f39f6711",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Umberto Boccioni, « Manifeste technique de la sculpture futuriste » (1912), Dynamisme plastique. Peinture et sculpture futuristes, L’Age d’homme, 1975.",
+     "section": "Séance 4 : Cubisme, futurisme, constructivisme",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936144": {
+     "files": [],
+     "fingerprint": "3b61b81d68a8eec103ba6b7db05d4e4377907c0a",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Salvador Dalí, « Objets surréalistes », Le Surréalisme au service de la révolution, n° 3, décembre 1931, pp. 16-19.",
+     "section": "Séance 5 : Dada, surréalisme",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936147": {
+     "files": [],
+     "fingerprint": "d48d5bedf1a17fa5ce9fe3c29488bb54cea5a04e",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Jean-Paul Sartre, « La recherche de l’absolu » (1948), Jean-Paul Sartre, Situations, III, Paris, Gallimard, 1949, pp. 289-305",
+     "section": "Séance 6 : La sculpture d'après-guerre",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936149": {
+     "files": [],
+     "fingerprint": "a2f9f4305bfb5a2c296eeb37c2bf299c47ba1b23",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Nicolas Schöffer, Le spatiodynamisme (extrait), Paris, éditions AA, 1954.",
+     "section": "Séance 7 : Cinétisme",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936150": {
+     "files": [],
+     "fingerprint": "da4822a983337c42588c775082f8d665b727f671",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Germano Celant, « Notes sur une guérilla », Flash Art, 5, novembre-décembre 1967.",
+     "section": "Séance 8 : Pop art, nouveau réalisme, arte povera",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936152": {
+     "files": [],
+     "fingerprint": "211627ed10fec168c185be3b7747a56e85bbdbef",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Robert Morris, « Notes on Sculpture, pt. 1 » (1966), Continuous Project Altered Daily, 1993, pp. 1-9.",
+     "section": "Séance 9 : Minimalisme et postminimalisme",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936154": {
+     "files": [],
+     "fingerprint": "7b6f46989fa8e093bbcbd4497b1bda6f81270b18",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Rosalind Krauss, « La sculpture dans le champ élargi » (1979), L’originalité de l’avant-garde et autres mythes modernistes, Macula, 1993, pp. 111-127.",
+     "section": "Séance 10 : Land art",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936158": {
+     "files": [],
+     "fingerprint": "a4bb968826a9befe874cca61f997261d182584a7",
+     "modname": "subsection",
+     "name": "•\tTexte à lire : Allan Kaprow, « L’héritage de Jackson Pollock » (1958), L’Art et la vie confondus, Paris, Centre Pompidou, 1996, pp. 38-39.",
+     "section": "Séance 11 : L'art de l'installation (1)",
+     "timemodified": 0,
+     "url": ""
+    },
+    "936175": {
+     "files": [
+      {
+       "filename": "rosso sculpture impressionniste.pdf",
+       "filesize": 1319440,
+       "timemodified": 1789031550
+      }
+     ],
+     "fingerprint": "60c1ddcc071c9ec352b40162e7c91490270cd17e",
+     "modname": "resource",
+     "name": "Medardo Rosso, « L’impressionnisme en sculpture, une explication » (1907), La sculpture impressionniste, L’Échoppe, 1994, pp. 126-130.",
+     "section": "•\tTexte à lire : Medardo Rosso, « L’impressionnisme en sculpture, une explication » (1907), La sculpture impressionniste, L’Échoppe, 1994, pp. 126-130.",
+     "timemodified": 1789031550,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936175"
+    },
+    "936187": {
+     "files": [
+      {
+       "filename": "boccioni_manifeste sculpture futuriste.pdf",
+       "filesize": 5030835,
+       "timemodified": 1789031954
+      }
+     ],
+     "fingerprint": "e883d7b6296bb4f9ab79a8bc92dd33232752b928",
+     "modname": "resource",
+     "name": "Umberto Boccioni, « Manifeste technique de la sculpture futuriste » (1912), Dynamisme plastique. Peinture et sculpture futuristes, L’Age d’homme, 1975.",
+     "section": "•\tTexte à lire : Umberto Boccioni, « Manifeste technique de la sculpture futuriste » (1912), Dynamisme plastique. Peinture et sculpture futuristes, L’Age d’homme, 1975.",
+     "timemodified": 1789031954,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936187"
+    },
+    "936189": {
+     "files": [
+      {
+       "filename": "Dalí objet surréaliste.pdf",
+       "filesize": 73876,
+       "timemodified": 1789032117
+      }
+     ],
+     "fingerprint": "9b0393b3398a3b643b56721e8eb3b9fae38a7dac",
+     "modname": "resource",
+     "name": "Salvador Dalí, « Objets surréalistes », Le Surréalisme au service de la révolution, n° 3, décembre 1931, pp. 16-19.",
+     "section": "•\tTexte à lire : Salvador Dalí, « Objets surréalistes », Le Surréalisme au service de la révolution, n° 3, décembre 1931, pp. 16-19.",
+     "timemodified": 1789032117,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936189"
+    },
+    "936194": {
+     "files": [
+      {
+       "filename": "Sartre_la_recherche_de_labsolu_giacometti_1948.pdf",
+       "filesize": 590511,
+       "timemodified": 1789032258
+      }
+     ],
+     "fingerprint": "d04c0159f791cf4791570184209aa3a225b42f94",
+     "modname": "resource",
+     "name": "Jean-Paul Sartre, « La recherche de l’absolu » (1948), Jean-Paul Sartre, Situations, III, Paris, Gallimard, 1949, pp. 289-305",
+     "section": "•\tTexte à lire : Jean-Paul Sartre, « La recherche de l’absolu » (1948), Jean-Paul Sartre, Situations, III, Paris, Gallimard, 1949, pp. 289-305",
+     "timemodified": 1789032258,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936194"
+    },
+    "936196": {
+     "files": [
+      {
+       "filename": "schoffer_spatiodynamisme-9-23.pdf",
+       "filesize": 105581,
+       "timemodified": 1789032393
+      }
+     ],
+     "fingerprint": "a0b902874d136e64b387a37f586fe08efa3a056a",
+     "modname": "resource",
+     "name": "Nicolas Schöffer, Le spatiodynamisme (extrait), Paris, éditions AA, 1954.",
+     "section": "•\tTexte à lire : Nicolas Schöffer, Le spatiodynamisme (extrait), Paris, éditions AA, 1954.",
+     "timemodified": 1789032393,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936196"
+    },
+    "936200": {
+     "files": [
+      {
+       "filename": "Celant notes sur une guerrilla.pdf",
+       "filesize": 83372,
+       "timemodified": 1789032595
+      }
+     ],
+     "fingerprint": "eab91f6828695e7fe3d7c4dbcf58f589d371684d",
+     "modname": "resource",
+     "name": "Germano Celant, « Notes sur une guérilla », Flash Art, 5, novembre-décembre 1967.",
+     "section": "•\tTexte à lire : Germano Celant, « Notes sur une guérilla », Flash Art, 5, novembre-décembre 1967.",
+     "timemodified": 1789032595,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936200"
+    },
+    "936201": {
+     "files": [
+      {
+       "filename": "Morris notes on sculpture 1.pdf",
+       "filesize": 1341810,
+       "timemodified": 1789032732
+      }
+     ],
+     "fingerprint": "b17f070654a58fc6dd0e402dd78f1472a4d808e9",
+     "modname": "resource",
+     "name": "Robert Morris, « Notes on Sculpture, pt. 1 » (1966), Continuous Project Altered Daily, 1993, pp. 1-9.",
+     "section": "•\tTexte à lire : Robert Morris, « Notes on Sculpture, pt. 1 » (1966), Continuous Project Altered Daily, 1993, pp. 1-9.",
+     "timemodified": 1789032732,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936201"
+    },
+    "936205": {
+     "files": [
+      {
+       "filename": "krauss sculpture champ élargi.pdf",
+       "filesize": 2033891,
+       "timemodified": 1789032839
+      }
+     ],
+     "fingerprint": "b308d36d8de0b2f9f7c99a03fccb72846ede61f2",
+     "modname": "resource",
+     "name": "Rosalind Krauss, « La sculpture dans le champ élargi » (1979), L’originalité de l’avant-garde et autres mythes modernistes, Macula, 1993, pp. 111-127.",
+     "section": "•\tTexte à lire : Rosalind Krauss, « La sculpture dans le champ élargi » (1979), L’originalité de l’avant-garde et autres mythes modernistes, Macula, 1993, pp. 111-127.",
+     "timemodified": 1789032839,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936205"
+    },
+    "936215": {
+     "files": [
+      {
+       "filename": "kaprow héritage pollock.pdf",
+       "filesize": 2172368,
+       "timemodified": 1789033197
+      }
+     ],
+     "fingerprint": "b3a710edd2f6fb037ce78a35bf75cc064fb5e8aa",
+     "modname": "resource",
+     "name": "Allan Kaprow, « L’héritage de Jackson Pollock » (1958), L’Art et la vie confondus, Paris, Centre Pompidou, 1996, pp. 38-39.",
+     "section": "•\tTexte à lire : Allan Kaprow, « L’héritage de Jackson Pollock » (1958), L’Art et la vie confondus, Paris, Centre Pompidou, 1996, pp. 38-39.",
+     "timemodified": 1789033197,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=936215"
+    },
+    "946101": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE SYLLABUS.pdf",
+       "filesize": 112653,
+       "timemodified": 1789476726
+      }
+     ],
+     "fingerprint": "6b8757431884a86767542ff86dbe6512d99b87cc",
+     "modname": "resource",
+     "name": "Syllabus",
+     "section": "Généralités",
+     "timemodified": 1789476726,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=946101"
+    },
+    "946106": {
+     "files": [],
+     "fingerprint": "d509c321ce73af9402329d607322d0cf8c0f7cb0",
+     "modname": "label",
+     "name": "Bibliographie",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": ""
+    },
+    "946488": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 1.pdf",
+       "filesize": 2729041,
+       "timemodified": 1789486158
+      }
+     ],
+     "fingerprint": "7c9354af18d706ec8773796620a65ef20a6e6660",
+     "modname": "resource",
+     "name": "CM SCULPTURE 1 diapo",
+     "section": "Séance 1 - Introduction",
+     "timemodified": 1789486158,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=946488"
+    },
+    "946493": {
+     "files": [
+      {
+       "filename": "max Neuhaus installations sonores .pdf",
+       "filesize": 5402931,
+       "timemodified": 1789486336
+      }
+     ],
+     "fingerprint": "07b3c72b835818dfbbebf9dc279af565670a85cd",
+     "modname": "resource",
+     "name": "•\tTexte à lire (moodle) : Max Neuhaus, « Les installations sonores : techniques et procédés » (1989), in Matthieu Saladin, Daniele Balit (eds.), Les pianos ne poussent pas sur les arbres. Max Neuhaus, Dijon, Les presses du réel, 2019.",
+     "section": "Séance 12 : L'art de l'installation (2)",
+     "timemodified": 1789486336,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=946493"
+    },
+    "961081": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 2 diapo.pdf",
+       "filesize": 3913415,
+       "timemodified": 1790182313
+      }
+     ],
+     "fingerprint": "24d7b13debf08c8adb2e53e39e150bd49967689e",
+     "modname": "resource",
+     "name": "CM SCULPTURE 2 diapo",
+     "section": "Séance 2 : Aux sources de la sculpture moderne (1)",
+     "timemodified": 1790182313,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=961081"
+    },
+    "961085": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 3 diapo.pdf",
+       "filesize": 4921217,
+       "timemodified": 1790182448
+      }
+     ],
+     "fingerprint": "79c78470764aa430b09ccf87a31968699e5c8602",
+     "modname": "resource",
+     "name": "CM SCULPTURE 3 diapo",
+     "section": "Séance 3 : Aux sources de la sculpture moderne (2)",
+     "timemodified": 1790182448,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=961085"
+    },
+    "982715": {
+     "files": [],
+     "fingerprint": "ef57955513bdce7e0d87e399cec217705b3a964c",
+     "modname": "label",
+     "name": "Consignes synthèses de lecture",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": ""
+    },
+    "997531": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 4 diapo.pdf",
+       "filesize": 4690137,
+       "timemodified": 1792155010
+      }
+     ],
+     "fingerprint": "f8c43e15418fc89e1ad1356b3077a0391d089380",
+     "modname": "resource",
+     "name": "CM SCULPTURE 4 diapo",
+     "section": "Séance 4 : Cubisme, futurisme, constructivisme",
+     "timemodified": 1792155010,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=997531"
+    },
+    "997534": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 5 diapo.pdf",
+       "filesize": 3145489,
+       "timemodified": 1792155138
+      }
+     ],
+     "fingerprint": "b577f537ed6ee33915aedbfaae6d2361050c66e9",
+     "modname": "resource",
+     "name": "CM SCULPTURE 5 diapo",
+     "section": "Séance 5 : Dada, surréalisme",
+     "timemodified": 1792155138,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=997534"
+    },
+    "997612": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 6 diapo.pdf",
+       "filesize": 2399697,
+       "timemodified": 1792156457
+      }
+     ],
+     "fingerprint": "d07b4206b92f41e020a2cbe870df77b6a03ace98",
+     "modname": "resource",
+     "name": "CM SCULPTURE 6 diapo",
+     "section": "Séance 6 : La sculpture d'après-guerre",
+     "timemodified": 1792156457,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=997612"
+    },
+    "997614": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 6 résumé.pdf",
+       "filesize": 139310,
+       "timemodified": 1792156733
+      }
+     ],
+     "fingerprint": "021e359afae9eb500966cd241669585c28843c5d",
+     "modname": "resource",
+     "name": "CM SCULPTURE 6 résumé",
+     "section": "Séance 6 : La sculpture d'après-guerre",
+     "timemodified": 1792156733,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=997614"
+    }
+   },
+   "name": "La sculpture au XXe siècle"
+  },
+  "26064": {
+   "initialized": true,
+   "items": {
+    "965403": {
+     "files": [],
+     "fingerprint": "f458b0426cf37f638258a1082561eacf4b0cc829",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Présentation",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=965403"
+    },
+    "965497": {
+     "files": [],
+     "fingerprint": "f753a16627b1d6ad49d5820849c8f2270d8001c4",
+     "modname": "subsection",
+     "name": "INTRODUCTION. Humanités numériques ?",
+     "section": "I. Ressources à travailler en autonomie",
+     "timemodified": 0,
+     "url": ""
+    },
+    "965498": {
+     "files": [],
+     "fingerprint": "01b31dfff5cbfd4111b986e0a3e361e3375f3fbd",
+     "modname": "subsection",
+     "name": "1. RECHERCHER. Documentation, science ouverte et valorisation de la recherche",
+     "section": "I. Ressources à travailler en autonomie",
+     "timemodified": 0,
+     "url": ""
+    },
+    "965499": {
+     "files": [],
+     "fingerprint": "def87bd132b64ba76fe75716bf879d850f7190dd",
+     "modname": "subsection",
+     "name": "2. GÉRER. Bibliographie et bases de données",
+     "section": "I. Ressources à travailler en autonomie",
+     "timemodified": 0,
+     "url": ""
+    },
+    "965501": {
+     "files": [],
+     "fingerprint": "0d84727d1e536cfcfb980b0bf95f06874996bcaa",
+     "modname": "subsection",
+     "name": "3. ANALYSER. Images numériques et intelligence artificielle",
+     "section": "I. Ressources à travailler en autonomie",
+     "timemodified": 0,
+     "url": ""
+    },
+    "965509": {
+     "files": [],
+     "fingerprint": "97131cc099c5a268427c535922f4c8fb746d3338",
+     "modname": "subsection",
+     "name": "4. INTERROGER. Droit, éthique et intégrité scientifique",
+     "section": "I. Ressources à travailler en autonomie",
+     "timemodified": 0,
+     "url": ""
+    }
+   },
+   "name": "L3 - HUMANITÉS NUMÉRIQUES APPLIQUÉES À L'HISTOIRE DE L'ART (SH30EM50, 2026-2027)"
+  },
+  "5695": {
+   "initialized": true,
+   "items": {
+    "241724": {
+     "files": [],
+     "fingerprint": "4d3c0bf24c252eece7b09e19af28539df762f87f",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=241724"
+    },
+    "241725": {
+     "files": [
+      {
+       "filename": "L3_BIBLIOGRAPHIE.doc",
+       "filesize": 35840,
+       "timemodified": 1752585947
+      }
+     ],
+     "fingerprint": "f243c456ddcb396a520c7b8d8ec01c6ebef8dd02",
+     "modname": "resource",
+     "name": "L3 BIBLIOGRAPHIE",
+     "section": "Généralités",
+     "timemodified": 1752585947,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=241725"
+    },
+    "959497": {
+     "files": [
+      {
+       "filename": "Romantisme_1.pdf",
+       "filesize": 2521096,
+       "timemodified": 1790142078
+      }
+     ],
+     "fingerprint": "5bfada7f53a0abf1e67964d6baa191426ce190c2",
+     "modname": "resource",
+     "name": "Romantisme 1",
+     "section": "Power points du cours",
+     "timemodified": 1790142078,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=959497"
+    },
+    "959498": {
+     "files": [
+      {
+       "filename": "Romantisme_2.pdf",
+       "filesize": 4246938,
+       "timemodified": 1790142101
+      }
+     ],
+     "fingerprint": "00a50e038c8d4825f848c637a804515fe63d5542",
+     "modname": "resource",
+     "name": "Romantisme 2",
+     "section": "Power points du cours",
+     "timemodified": 1790142101,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=959498"
+    }
+   },
+   "name": "La peinture romantique en Allemagne"
+  },
+  "8745": {
+   "initialized": true,
+   "items": {
+    "348436": {
+     "files": [],
+     "fingerprint": "0eec459fb13af2f9530545343e6b99880f359049",
+     "modname": "forum",
+     "name": "ANNONCES...",
+     "section": "Préambule",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=348436"
+    },
+    "348437": {
+     "files": [],
+     "fingerprint": "0b111c1076a383437853a5ad063a2683644c712e",
+     "modname": "url",
+     "name": "Comment fonctionnent ces \"contrats pédagogiques\" ? quels documents avoir avec soi le jour du rendez-vous ? Toutes les informations sur cette page du site de la Faculté",
+     "section": "📎  Actualité de la rentrée : les contrats pédagogiques",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348437"
+    },
+    "348440": {
+     "files": [
+      {
+       "filename": "Fiche Contrat pédagogique 26-27 Licence HA.pdf",
+       "filesize": 35361,
+       "timemodified": 1784978889
+      }
+     ],
+     "fingerprint": "b75719e2999c57e4bc7d73c03a8e718fedc4deb8",
+     "modname": "resource",
+     "name": "Fiche Contrat pédagogique 26-27 Licence HA",
+     "section": "📎  Actualité de la rentrée : les contrats pédagogiques",
+     "timemodified": 1784978889,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348440"
+    },
+    "348444": {
+     "files": [],
+     "fingerprint": "6b695babfe6936b439280d30883077cf20a9f99c",
+     "modname": "url",
+     "name": "Sur le site de l'Unistra, la page \"WELCOME DAYS BIENVENUE Université de Strasbourg\", pleine de bons tips tous azimuts",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348444"
+    },
+    "348447": {
+     "files": [],
+     "fingerprint": "537824a31042ea607f8f3ea93a1fc716cc4f9e68",
+     "modname": "url",
+     "name": "Votre Fiche IP, d'Inscription Pédagogique, notamment pour vous les L1 Histoire de l'art, sera à télécharger sur cette page, en vue de la retourner à la Scolarité ensuite, d'ici au 15 septembre",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348447"
+    },
+    "348454": {
+     "files": [],
+     "fingerprint": "4cc2f19ac3cd18eb4001cec934604a4b9f17da27",
+     "modname": "label",
+     "name": "Premiers pas, inscriptions...",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348455": {
+     "files": [],
+     "fingerprint": "12f5a3761b5743a0f2d898373abdcb83d4ed8b74",
+     "modname": "url",
+     "name": "Pour commencer, cette excellente page FAQ, réalisée par les gestionnaires de notre Faculté des Sciences historiques (FSH) à votre attention",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348455"
+    },
+    "348456": {
+     "files": [],
+     "fingerprint": "8e01fa41156168e4f8c962a9449fa0f6cf35de39",
+     "modname": "url",
+     "name": "Sur ce même site de la FSH, notamment la page d'info sur les Admissions &amp; Inscriptions, concernant vos démarches de tout début d'année",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348456"
+    },
+    "348457": {
+     "files": [],
+     "fingerprint": "d2972a53a9aa4ffb5e16df672d498e80ab164e8e",
+     "modname": "url",
+     "name": "Pour votre inscription pédagogique, vous téléchargerez ici votre Fiche IP, L1 ou L2 ou L3 Histoire de l'art, à renvoyer à la Scolarité d'ici au 15 septembre",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348457"
+    },
+    "348458": {
+     "files": [],
+     "fingerprint": "f5d29ff962ce03910d2b881a2cedc0fe60d85b72",
+     "modname": "url",
+     "name": "Pour bien noter dans vos emplois du temps, première chose, vos horaires des Matières obligatoires pour l'Historien de l'art, ouvrez votre GUIDE Licence HA bien sûr. Puis...",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348458"
+    },
+    "348459": {
+     "files": [],
+     "fingerprint": "b90854e3215171898f90445be02c4b99c35e7fca",
+     "modname": "url",
+     "name": "... Pour choisir vos Matières, dans les UE à choix, lorsqu'elles sont INTRA FSH (Histoire, Archéo...), voir les UE de notre Faculté Sciences Historiques proposées aux étudiants d'autres parcours/filières",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348459"
+    },
+    "348461": {
+     "files": [],
+     "fingerprint": "d1cb4e4f08bab1d0a9100e040c4821cc347c0ed7",
+     "modname": "url",
+     "name": "... Pour choisir une Langue, enfin, SI elle est gérée par notre propre faculté (Anglais, Allemand, Anciennes), alors vous retournez à cette page que vous connaissez, pour vous y procurer le guide Langues vivantes et anciennes en l'occurrence",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348461"
+    },
+    "348463": {
+     "files": [],
+     "fingerprint": "7e655e1b59ecadeeb25f5c2d2ca09d652ac239bd",
+     "modname": "url",
+     "name": "... Pour les PIX, étudiants de L2, vous noterez bien les réunion d'info et instructions de Madame Buchholzer sur sa page moodle",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348463"
+    },
+    "348464": {
+     "files": [],
+     "fingerprint": "f492e0ce750ac8bd9c89a3f4240a0d6cfb8e500b",
+     "modname": "url",
+     "name": "Concernant l'assiduité en cours, le texte du Journal Officiel : \"Arrêté du 30 juillet 2019 définissant le cadre national de scolarité et d'assiduité des étudiants inscrits dans une formation relevant du Ministère chargé de l'Enseignement supérieur\"",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348464"
+    },
+    "348465": {
+     "files": [],
+     "fingerprint": "042a2551f1266f214d665added6cf3ce4ad1e5dc",
+     "modname": "label",
+     "name": "Des examens aux résultats...",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348466": {
+     "files": [],
+     "fingerprint": "b4b9212b8dcdde72cac362737d4f627ab3c3760c",
+     "modname": "url",
+     "name": "Sur le site de la FSH à nouveau, notamment la page des \"MECC\", où sont consignés les règlements officiels votés par les Conseils décisionnaires, concernant les Modalités d'Évaluation et de Contrôle des Connaissances",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348466"
+    },
+    "348467": {
+     "files": [],
+     "fingerprint": "18db92034c9cbeb7d47acdad27f311aba76682af",
+     "modname": "url",
+     "name": "Concernant aussi les examens, cette page, où le moment venu sont publiés par l'Administration les calendriers des épreuves terminales (les CT), et de session de rattrapage",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348467"
+    },
+    "348468": {
+     "files": [],
+     "fingerprint": "6c18a98d117a98071b3abc2fba156dcebf9b2e6d",
+     "modname": "url",
+     "name": "En cas d'absence, justifiée, à un Contrôle, ce formulaire, à retourner à la Scolarité sous 7 jours",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348468"
+    },
+    "348469": {
+     "files": [
+      {
+       "filename": "Services-numeriques_Unistra_Guide-etudiants_2022-2023.pdf",
+       "filesize": 5745488,
+       "timemodified": 1792311192
+      }
+     ],
+     "fingerprint": "0d47a5b3bd352f7b6107750e126a4720ab3bdc54",
+     "modname": "resource",
+     "name": "Pour bien utiliser votre ENT Ernest, et tous autres outils numériques Unistra, ici le Guide étudiant des services numériques",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 1792311192,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348469"
+    },
+    "348471": {
+     "files": [],
+     "fingerprint": "9487e2ab7b1fedb82b5099ad65639b0143bd9a4b",
+     "modname": "label",
+     "name": "Situations et démarches spécifiques...",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348472": {
+     "files": [],
+     "fingerprint": "b92e957e02f28528f1ae9cf8df3bf44c788df8d9",
+     "modname": "url",
+     "name": "Dans certains cas très spécifiques l'étudiant, p. ex. salarié, peut requérir une Dispense d'assiduité, pour l'année ou pour telles Matières : formulaire disponible sur cette page du site FSH",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348472"
+    },
+    "348474": {
+     "files": [],
+     "fingerprint": "785c4d7300708601ce6f20694c2e285fa74fcae6",
+     "modname": "url",
+     "name": "Si vous êtes concerné(e) : la Mission Handicap de l'Unistra",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348474"
+    },
+    "348476": {
+     "files": [],
+     "fingerprint": "fd4c1ffe4aa25af3e289949c9fc9c311205f0497",
+     "modname": "url",
+     "name": "Vous envisagez une partie de vos études à l'étranger ? Lancez-vous ! les opportunités sont nombreuses, que vous trouvez rassemblées sur cette page, du site de l'Unistra",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348476"
+    },
+    "348477": {
+     "files": [],
+     "fingerprint": "5f27176c848d4ba2ebf9e9bcca947812c5d8998d",
+     "modname": "url",
+     "name": "Vous envisagez une partie de vos études à l'étranger ? Projetez-vous concrètement, en consultant ce moteur de recherche très précis (HA+Pays+FSH...), sur les programmes ouverts à vos candidatures, les démarches attenantes à chacun d'eux",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348477"
+    },
+    "348478": {
+     "files": [],
+     "fingerprint": "f84e5e6f978d2c0593d467595cf8e67df095290d",
+     "modname": "url",
+     "name": "Vous envisagez une partie de vos études à l'étranger ? Dès que votre projet se précise, prenez contact avec les référents Relations internationales de notre Faculté, via le site de la FSH",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348478"
+    },
+    "348479": {
+     "files": [],
+     "fingerprint": "1697e2e82ee1822c4c37cca9b154f5902f8c178f",
+     "modname": "label",
+     "name": "Les stages, étape essentielle pour connaître / agi...",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348480": {
+     "files": [
+      {
+       "filename": "Les stages (consignes générales N. Ben Azzouna et F. Kieffer 2022) .pdf",
+       "filesize": 888111,
+       "timemodified": 1756027383
+      }
+     ],
+     "fingerprint": "1feede210fc634a083b3f01d9620e3b382d8a895",
+     "modname": "resource",
+     "name": "Stages : consignes générales aux étudiants (par N. Ben Azzouna et F. Kieffer précédentes resp. du diplôme)",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 1756027383,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348480"
+    },
+    "348484": {
+     "files": [],
+     "fingerprint": "b006c3a3aa8bf0555502f2ce78cfd9144482a0a0",
+     "modname": "url",
+     "name": "Stages (politique des) : relisez le point qui y était consacré, dans le Rapport de Conseil de perfectionnement 2024 (p. 4-5)",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348484"
+    },
+    "348485": {
+     "files": [],
+     "fingerprint": "6132a395bdba3c654efe75dbc7f35ea9ce5676e6",
+     "modname": "url",
+     "name": "Stages : vous aimeriez faire le vôtre à l'étranger ? Excellente idée ! Consultez cette page, du site de l'Unistra",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348485"
+    },
+    "348486": {
+     "files": [],
+     "fingerprint": "34aafe7811296b183d8511e5865b424d0e81e329",
+     "modname": "url",
+     "name": "Stages : offres au fil de l'eau, dans le forum Annonces de la présente page moodle : pour les afficher toutes, taper \"stage\" -&gt; rechercher",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348486"
+    },
+    "348487": {
+     "files": [],
+     "fingerprint": "cff679ee86e20bda512580c33916e331a0c34829",
+     "modname": "url",
+     "name": "Offres de stages et d'emplois dans le secteur culturel : le site profilculture.com",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348487"
+    },
+    "348489": {
+     "files": [],
+     "fingerprint": "5d32ed6b503fabc634468144a812a35054c23baf",
+     "modname": "url",
+     "name": "Le dispositif \"Missions Professionnelles\" Unistra-IDIP : visionnez le diaporama interactif, ainsi que les nouvelles offres ouvertes à vos candidatures dès le début de chaque semestre",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348489"
+    },
+    "348490": {
+     "files": [],
+     "fingerprint": "f7f75ff7d1f3bc1c580914828037583067b157d8",
+     "modname": "label",
+     "name": "Les outils, pour se mettre en valeur, décrocher un...",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348491": {
+     "files": [],
+     "fingerprint": "31c115c06249be18b0cc46ee744877b835b4da86",
+     "modname": "url",
+     "name": "Nouveauté proposée par l'Unistra, pour vous aider à décrocher un stage : la page moodle \"KIT STAGE\"",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348491"
+    },
+    "348492": {
+     "files": [],
+     "fingerprint": "3cc4bf4f7f78ea8be01b144f30d9bb56dc69fccd",
+     "modname": "url",
+     "name": "L'Espace Avenir, de l'Unistra : suivez pas à pas leur guide \"Hello Stage Emploi\"",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348492"
+    },
+    "348493": {
+     "files": [],
+     "fingerprint": "50b355089bd601b245b318d6159a9cfd9ecfdf93",
+     "modname": "url",
+     "name": "L'Espace Avenir : profitez notamment de leurs Webinaires \"Optimiser son CV, sa lettre de motivation...\" : nouvelles sessions régulièrement",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348493"
+    },
+    "348494": {
+     "files": [],
+     "fingerprint": "d6819ab81b068a0f718fe291de7e99eb4d114310",
+     "modname": "url",
+     "name": "La série de petites vidéos astuces \"Zoom sur\"... le CV, la lettre de motivation, l'entretien",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348494"
+    },
+    "348496": {
+     "files": [],
+     "fingerprint": "a533d7e8f63644f138b5edc804eb7acca30321d0",
+     "modname": "url",
+     "name": "Pistes et offres pour décrocher un stage / job / emploi à l'étranger : le Club Teli (recommandé par l'Espace Avenir)",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348496"
+    },
+    "348497": {
+     "files": [],
+     "fingerprint": "24d7a9b9b36028a8a6a04455c54eb3683a9f8a6f",
+     "modname": "label",
+     "name": "Les débouchés, les lieux et secteurs d'activité, t...",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348498": {
+     "files": [
+      {
+       "filename": "Débouchés après des études dHistoire de lart (plaquette réalisée par lUniversité de Grenoble, mise à jour 2024).pdf",
+       "filesize": 1424683,
+       "timemodified": 1756021166
+      }
+     ],
+     "fingerprint": "ed767312b02fefd3e6bb24e18cda9d0a2f48e7b1",
+     "modname": "resource",
+     "name": "Débouchés, dans le privé &amp; le public, après des études d'Histoire de l'art (plaquette réalisée par l'U. de Grenoble, mise à jour 2024)",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 1756021166,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348498"
+    },
+    "348499": {
+     "files": [
+      {
+       "filename": "Débouchés après des études dHistoire de lart (plaquette réalisée par lUniversité de Nantes, mise à jour 2022).pdf",
+       "filesize": 551261,
+       "timemodified": 1753167429
+      }
+     ],
+     "fingerprint": "23476c9c036dd2f4dec3e5d72ef2338e4dbbd0e1",
+     "modname": "resource",
+     "name": "Débouchés, dans le privé &amp; le public, après des études d'Histoire de l'art (plaquette réalisée par l'U. de Nantes, mise à jour 2022)",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 1753167429,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348499"
+    },
+    "348500": {
+     "files": [],
+     "fingerprint": "7036f7079bbf1aa227280e7bec66d852fe75686e",
+     "modname": "label",
+     "name": "Les débouchés notamment via les concours, fonction...",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348501": {
+     "files": [],
+     "fingerprint": "305743b9122cbdedce4616c25b148617d1240f97",
+     "modname": "url",
+     "name": "Métiers de la culture Fonction publique : les rapports de jury annuels, pour le concours de Conservateur par exemple, sur le site de l'INP",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348501"
+    },
+    "348502": {
+     "files": [],
+     "fingerprint": "a3f41a50df566725d829fa241879329944aa971a",
+     "modname": "url",
+     "name": "Site de l'Institut National du Patrimoine",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348502"
+    },
+    "348503": {
+     "files": [],
+     "fingerprint": "5581913357578f582406bbc19746485a03dbc863",
+     "modname": "url",
+     "name": "Site Fonction publique territoriale, qui notamment recense les concours des CDG",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348503"
+    },
+    "348504": {
+     "files": [],
+     "fingerprint": "e2d4e7513af6b0a32ab5cb7dd89bfa00b8338fc3",
+     "modname": "url",
+     "name": "Site du Service Régional de l'Inventaire Grand Est",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348504"
+    },
+    "348505": {
+     "files": [],
+     "fingerprint": "f418f27598f86e9a82ac8cc0f10d2fc6e201b70d",
+     "modname": "url",
+     "name": "Parmi les débouchés, pensez aux bibliothèques notamment ! d'art ou autre – exemple, au sein des Médiathèques de la CUS",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348505"
+    },
+    "348506": {
+     "files": [],
+     "fingerprint": "d9bd2c214932782328152eb7ec328edf3400d996",
+     "modname": "label",
+     "name": "À tous moments la curiosité, vis-à-vis de ce qui s...",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348507": {
+     "files": [],
+     "fingerprint": "e8bcd6f49731eb91d972599cebfb630697f5b0f9",
+     "modname": "url",
+     "name": "Le blog de l'APAHAU : annonces de colloques, conférences, appels à contributions, bourses, postes, en Histoire de l'art, en France et ailleurs",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348507"
+    },
+    "348508": {
+     "files": [],
+     "fingerprint": "ddaf09ff7355dd51fe492c663e7242f9ff13d4b9",
+     "modname": "url",
+     "name": "Actualités culturelles Strasbourg : inscrivez-vous à la newsletter des Musées de la Ville via ce lien. Et consultez aussi régulièrement leur site lui-même, www.musees.strasbourg.eu",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348508"
+    },
+    "348509": {
+     "files": [],
+     "fingerprint": "8b5538e77fdfcb462aeb8050359f4fc328cc4778",
+     "modname": "url",
+     "name": "Actualité culturelle et patrimoniale Grand Est",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348509"
+    },
+    "348510": {
+     "files": [],
+     "fingerprint": "944987f6fc05d59a9fd8a294fda7c7c69aa58fb3",
+     "modname": "url",
+     "name": "Le portail des bibliothèques universitaires à Strasbourg",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348510"
+    },
+    "348511": {
+     "files": [],
+     "fingerprint": "7e44e4b1c04b4927f82b6286998fba5fc18c11af",
+     "modname": "url",
+     "name": "Large gamme de tutoriels de recherche documentaire proposés par l'Unistra, via ce portail",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348511"
+    },
+    "348512": {
+     "files": [
+      {
+       "filename": "Liste RESSOURCES ELECTR pour lecteurs_MAJ octobre 2025 (par léquipe de la Bib des Arts).pdf",
+       "filesize": 1051364,
+       "timemodified": 1762764241
+      }
+     ],
+     "fingerprint": "418297c9da5f49800cf5e02924c21fb6f941228e",
+     "modname": "resource",
+     "name": "Ressources numériques pour l'Histoire de l'art : une liste commentée mise à jour annuellement, établie par les bibliothécaires de votre BdA (version octobre 2025)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 1762764241,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348512"
+    },
+    "348513": {
+     "files": [
+      {
+       "filename": "Ressources utiles en HA - sélection parmi les signets de léquipe pédagogique, compilée par N. Ben Azzouna 2017.pdf",
+       "filesize": 314536,
+       "timemodified": 1753167430
+      }
+     ],
+     "fingerprint": "6160ea4947599eeedea6acc3aa12bfdf3d31d0c9",
+     "modname": "resource",
+     "name": "Ressources numériques pour l'Histoire de l'art : une sélection à votre attention, parmi les \"signets\" de l'équipe pédagogique HA (compilée par N. Ben Azzouna 2017)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 1753167430,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348513"
+    },
+    "348514": {
+     "files": [
+      {
+       "filename": "Corneloup Fiche technique - Ressources essentielles pour l’enquête en Histoire de l’art.pdf",
+       "filesize": 132089,
+       "timemodified": 1753167430
+      }
+     ],
+     "fingerprint": "b12ade70e2682549119f50a0fdd4a81330cfb55c",
+     "modname": "resource",
+     "name": "Ressources essentielles, numériques ou autres, pour l'enquête en Histoire de l'art : un bref vade-mecum (ici p. ex. pour la peinture XVe-XVIIe, A. Corneloup 2021, à compléter avec les outils spécifiques aux différents autres domaines de spécialité)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 1753167430,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348514"
+    },
+    "348515": {
+     "files": [],
+     "fingerprint": "d3e006b6c56f19e8db3d1d560cd4de3317fb816a",
+     "modname": "url",
+     "name": "Une banque de fiches métho de base, pour l'étudiant en Histoire de l'art (AC)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348515"
+    },
+    "348516": {
+     "files": [
+      {
+       "filename": "Conseils de base et de bon sens, %22Étudier plus efficacement [pour] préparer et passer ses examens%22 (Unistra-IDIP 2020).pdf",
+       "filesize": 2427952,
+       "timemodified": 1753167430
+      }
+     ],
+     "fingerprint": "4b4cd22f00476f56007e725bedf31e10a251110b",
+     "modname": "resource",
+     "name": "Conseils de base et de bon sens, dans ce petit vade-mecum : \"Étudier plus efficacement [pour] préparer et passer ses examens\" (Unistra-IDIP 2020)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 1753167430,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348516"
+    },
+    "348517": {
+     "files": [
+      {
+       "filename": "Utiliser lIntelligence Artificielle pour étudier, Unistra-IDIP, 2025 (dont ce point vital, p. 36, Utiliser l’IA ne doit pas se faire au détriment du développement de vos compétences et de votre créativité).pdf",
+       "filesize": 13350284,
+       "timemodified": 1753167430
+      }
+     ],
+     "fingerprint": "d2a1194f107b0d5bf54ebdbebef879e14250e0c0",
+     "modname": "resource",
+     "name": "\"Utiliser l'Intelligence Artificielle pour étudier\", livret Unistra-IDIP, 2025 (dont ce point vital, p. 36, \"Utiliser l’IA ne doit pas se faire au détriment du développement de vos compétences et de votre créativité\")",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 1753167430,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348517"
+    },
+    "348518": {
+     "files": [],
+     "fingerprint": "b2492e1e77f75bb26f28d9417dca0967c4d52b7b",
+     "modname": "url",
+     "name": "Voyez et re-voyez, aussi, vos UE Métho de Licence première année (liens via la rubrique L1 de la présente Page info L-HA)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348518"
+    },
+    "348520": {
+     "files": [],
+     "fingerprint": "dc81277a5600ce5bf5cf196e281935ff5e5d4397",
+     "modname": "url",
+     "name": "\"Approche par Compétences\" : une volonté, une incitation forte, de la part de nos tutelles, pour la nouvelle Offre de formation 2024-2029",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348520"
+    },
+    "348521": {
+     "files": [],
+     "fingerprint": "748e67761cec0498d213df338d317be013c28f3e",
+     "modname": "url",
+     "name": "\"Approche par Compétences\" : une réalité, dans vos études ! Faites-vous une liste panoptique de vos cours, avec pour chacun les compétences acquises, valorisables dans vos stages, vos candidatures ou concours, vos métiers à venir ! (ici ex. sur cours AC)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348521"
+    },
+    "348522": {
+     "files": [],
+     "fingerprint": "4ef27e340089fdccbeee6a67fe11015ab79bafa3",
+     "modname": "label",
+     "name": "Chaque année les JU, les PO, lien entre les lycéen...",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348523": {
+     "files": [],
+     "fingerprint": "1a183ae009aa21d8686352002957ff8b5f5616e3",
+     "modname": "url",
+     "name": "Les JOURNÉES DES UNIVERSITÉS, JU, au Parc des Expositions-Wacken de Strasbourg : cette année, les 5 et 6 février 2026",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348523"
+    },
+    "348524": {
+     "files": [
+      {
+       "filename": "JU - Dépliant histoire de lart  - version mise à jour 2024 (AC 26-01-24, à ER).pdf",
+       "filesize": 104342,
+       "timemodified": 1753167431
+      }
+     ],
+     "fingerprint": "1fbe96467c99155de839230cdff0d690bfc9449d",
+     "modname": "resource",
+     "name": "Les Journées des Universités : plaquette (mise à jour 2024 en vue de la NOF), pour la présentation de notre Licence Histoire de l'art  aux lycéens",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167431,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348524"
+    },
+    "348525": {
+     "files": [],
+     "fingerprint": "ecc1423765eff26e82c639b5faef3470c4fe4eb8",
+     "modname": "url",
+     "name": "Les JU, bilan 2024 (stand FSH cité dans l'article !) : \"... première étape avant les portes ouvertes. Plus de 34 000 visiteurs sont venus se renseigner\"",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348525"
+    },
+    "348526": {
+     "files": [],
+     "fingerprint": "ce6b2211972decd13fdecd629b4e2d632da18ece",
+     "modname": "url",
+     "name": "Les PORTES OUVERTES, PO, de l'Université de Strasbourg, notamment au Palais Universitaire : cette année, le samedi 7 mars 2026",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348526"
+    },
+    "348527": {
+     "files": [],
+     "fingerprint": "f068db9865bc44152f4a0db5dd6f33a43044fc4b",
+     "modname": "groupselect",
+     "name": "Les Portes Ouvertes : pour faire partie de la petite équipe d'accueil de nos visiteurs session 2026 : inscrivez-vous ici ! [clos à présent]",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/groupselect/view.php?id=348527"
+    },
+    "348528": {
+     "files": [
+      {
+       "filename": "Anne Corneloup in PO - Présentation L-HA màj mars 2025.pdf",
+       "filesize": 54122047,
+       "timemodified": 1753167431
+      }
+     ],
+     "fingerprint": "d7f6aca690f947753af0fc3be17462ec6096b92e",
+     "modname": "resource",
+     "name": "Les PO, 2025 : diaporama de présentation de la Licence Histoire de l'art (AC, ici avec œuvre du cours témoin version 2025)",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167431,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348528"
+    },
+    "348529": {
+     "files": [
+      {
+       "filename": "JU - Dépliant histoire de lart  - version mise à jour 2024 (AC 26-01-24, à ER).pdf",
+       "filesize": 104342,
+       "timemodified": 1753167432
+      }
+     ],
+     "fingerprint": "e920e51655538be040d705b2a33e229678e8c843",
+     "modname": "resource",
+     "name": "Les PO, 2026 : même plaquette que celle distribuée aux JU,  pour la présentation synthétique de notre Licence (version màj 2024)",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167432,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348529"
+    },
+    "348531": {
+     "files": [],
+     "fingerprint": "3a79127983e64ba316455d6025926b5b5c2f5ca3",
+     "modname": "label",
+     "name": "Votre implication, dans le dispositif Qualité Form...",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348533": {
+     "files": [
+      {
+       "filename": "2023-2024 Licence Histoire de lart et Archéologie - Compte rendu du Conseil perfectionnement, au 24 mai 2024.pdf",
+       "filesize": 2514218,
+       "timemodified": 1753167432
+      }
+     ],
+     "fingerprint": "32febf75969de1be30578732a361ffbac3245f91",
+     "modname": "resource",
+     "name": "Rapport du CONSEIL DE PERFECTIONNEMENT de votre Licence, 2024 : aux étudiants qui y ont siégé cette année, encore grand merci de vos apports à la réflexion ! (AC)",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167432,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348533"
+    },
+    "348534": {
+     "files": [],
+     "fingerprint": "9c3b8d5fc7240c8a917b6eda094668d50422cd05",
+     "modname": "url",
+     "name": "Ces Conseils de perfectionnement annuels font partie du dispositif Qualité Formation piloté par la Vice-Présidence, au même titre que les enquêtes d'évaluation par vous tous étudiants, mises en place plus récemment (depuis 2023)",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348534"
+    },
+    "348536": {
+     "files": [],
+     "fingerprint": "aabdab2bf9f1fbc4ea14de228dc2c4797aa9069f",
+     "modname": "url",
+     "name": "Sur l'année 23-24, puis 24-25, et à présent 2025-2026 : publication des résultats de l'enquête d'Evaluation des Formations par les Etudiants (EFE), pour l'ensemble des diplômes de l'Unistra, dont ceux de votre Faculté Sciences historiques",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348536"
+    },
+    "348537": {
+     "files": [],
+     "fingerprint": "572f054267117fe143a874127395e2b0bdb98f9b",
+     "modname": "label",
+     "name": "Parmi les actions menées par vous-mêmes étudiants ...",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348538": {
+     "files": [
+      {
+       "filename": "Table-Ronde Enseignement - org. par les étudiants du Conseil de Faculté - 1er mars 2024.pdf",
+       "filesize": 486237,
+       "timemodified": 1753167432
+      }
+     ],
+     "fingerprint": "77d7dd349ee016ce5647d24dfc51758e5db6f894",
+     "modname": "resource",
+     "name": "Une TABLE-RONDE sur les métiers de l'Enseignement, organisée par les étudiants élus du Conseil de Faculté, vendredi 1er mars 2024",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167432,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348538"
+    },
+    "348539": {
+     "files": [],
+     "fingerprint": "8450bcd4a575dbaff166e2dc952c163dde7182a0",
+     "modname": "url",
+     "name": "Le MUSÉE DES MOULAGES Adolf Michaelis (à quelques pas de votre Bibliothèque des arts et de votre cafèt') : une magnifique réalisation des étudiants eux-mêmes... à découvrir, à rejoindre vous-même !",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348539"
+    },
+    "348541": {
+     "files": [],
+     "fingerprint": "9ac7e434efa68d04e65037ee862300c2c2e4bae0",
+     "modname": "url",
+     "name": "Votre ASSOCIATION des Étudiants en Sciences historiques, AESH, très active notamment aux JU et PO... Nhésitez pas ! rejoignez-les, pour cela, et pour bien d'autres activités intra- ou extra-universitaires !",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348541"
+    },
+    "348542": {
+     "files": [
+      {
+       "filename": "A.E.S.H. Flyer Contacts et liens (mise à jour 2026).pdf",
+       "filesize": 549712,
+       "timemodified": 1789666845
+      }
+     ],
+     "fingerprint": "c7e0ce37c1e174425a477f3e56818517ea7c38da",
+     "modname": "resource",
+     "name": "L'AESH : flyer contacts et liens... dont leur précieux serveur Discord !",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1789666845,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348542"
+    },
+    "348543": {
+     "files": [],
+     "fingerprint": "05647a49be1ccfefa5fc0df43a2bf03307b8a6a2",
+     "modname": "url",
+     "name": "Sous l'égide de l'AESH aussi, votre mensuel ARTHISTO, Journal des étudiants au Palais universitaire, téléchargeable en version électronique, via la page facebook dédiée",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348543"
+    },
+    "348544": {
+     "files": [],
+     "fingerprint": "8bdfe9ccd582bd106a725c49d946c236f9a03513",
+     "modname": "label",
+     "name": "Opérations ALUMNI :",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348545": {
+     "files": [],
+     "fingerprint": "8b8282b6a4850e92f386eaf3b39d0a71d2543c6a",
+     "modname": "url",
+     "name": "Le réseau des ALUMNI, anciens étudiants de l'Unistra... que vous pourrez rejoindre une fois accomplies vos études, et solliciter peut-être dès maintenant",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348545"
+    },
+    "348546": {
+     "files": [
+      {
+       "filename": "Process inscription réseau Alumni Unistra.pdf",
+       "filesize": 224888,
+       "timemodified": 1753167433
+      }
+     ],
+     "fingerprint": "db9270cea4ee01fa74a8e6e854bc3bd7277ac46c",
+     "modname": "resource",
+     "name": "Pour vous inscrire sur la plateforme / le réseau Alumni le process est très simple, expliqué dans ce schéma",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167433,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348546"
+    },
+    "348548": {
+     "files": [
+      {
+       "filename": "Rencontre Alumni Histoire de l’art, lundi 11 mars 2024 - Affiche-programme.pdf",
+       "filesize": 2686079,
+       "timemodified": 1753167433
+      }
+     ],
+     "fingerprint": "53b4e6235c0cb8aec3c2c6442170e691395a25c7",
+     "modname": "resource",
+     "name": "L'événement Alumni édition 2023-2024, org. par J. Ramos et L. La Barbera : l'affiche-programme, avec sa liste des jeunes professionnels invités, anciens étudiants de nos Licence/Master Histoire de l'art !",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167433,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348548"
+    },
+    "348549": {
+     "files": [],
+     "fingerprint": "a834348402ebf758070aebeab451461387a4efac",
+     "modname": "url",
+     "name": "À l'échelle de l'Unistra, à l'échelle de vos diplômes Histoire de l'art... l'esprit Alumni infuse aussi notre Faculté, des Sciences historiques, qui incite nos Anciens à vous parrainer. À suivre !",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348549"
+    },
+    "348551": {
+     "files": [
+      {
+       "filename": "Alumni Histoire de lart édition 2024-2025 - Programme des interventions.pdf",
+       "filesize": 107745,
+       "timemodified": 1753167433
+      }
+     ],
+     "fingerprint": "a0b8c124e2f0d16dbc92b9d260c6f32cb63431f1",
+     "modname": "resource",
+     "name": "L'événement Alumni Histoire de l'art nouvelle édition, 2024-2025 : programme des interventions, 2 décembre 2024, org. L. La Barbera et étudiants du Master HA",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1753167433,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348551"
+    },
+    "348552": {
+     "files": [],
+     "fingerprint": "9923aca0fefb162cf5d520b0a588b8db05b632a9",
+     "modname": "url",
+     "name": "Pour vous tenir informés de la vie de la Faculté : lisez les PV des Conseils, à la disposition de tous et notamment ceux rédigés par les étudiants élus",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348552"
+    },
+    "348553": {
+     "files": [],
+     "fingerprint": "cce6d2f39089e90034db1959aa44f61b41edd9bd",
+     "modname": "forum",
+     "name": "Un thème vous vient en tête, ou un lien utile, qui devrait figurer dans cette rubrique \"Bien vivre ensemble\" ? Partagez-le dans ce forum !",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=348553"
+    },
+    "348554": {
+     "files": [],
+     "fingerprint": "25be4719e263b9f8eebb714bd879602c5bac3bf7",
+     "modname": "forum",
+     "name": "« Comment bien communiquer par mail ? » Petite question cruciale en effet, pour nos échanges au quotidien... Étudiants, enseignants, gestionnaires, portez dans ce forum-ci vos interrogations, vos suggestions !",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=348554"
+    },
+    "348555": {
+     "files": [
+      {
+       "filename": "Guide des VSSH, à lattention des étudiants, sur la question des violences faites aux femmes notamment – élaboré par lAESH-Association des étudiants en sciences historiques, novembre 2024.pdf",
+       "filesize": 4155088,
+       "timemodified": 1753167433
+      }
+     ],
+     "fingerprint": "839d13cef28d86ff190cd8ffe9d350b12fd34ab6",
+     "modname": "resource",
+     "name": "Guide des VSSH, à l'attention des étudiants, sur la question des violences faites aux femmes notamment – élaboré par l'AESH-Association des étudiants en sciences historiques, novembre 2024",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 1753167433,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=348555"
+    },
+    "348556": {
+     "files": [],
+     "fingerprint": "32967027762bfe50eaf5f1b3e89c11673efefda0",
+     "modname": "url",
+     "name": "Les règles sont très claires à l'université : toute attitude d'incivilité, de violence, de harcèlement, tant verbale que physique, y est prohibée et passible de poursuites, quelle qu'en soit la nature, raciste, homophobe, sexiste ou encore sexuelle",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348556"
+    },
+    "399608": {
+     "files": [],
+     "fingerprint": "c644092697336af4ae5102d8bfa574e7bf262c4c",
+     "modname": "url",
+     "name": "En complément de votre MTU de L1 au besoin, ce moodleAir proposé par l'Unistra-IDIP : \"Améliorer mes méthodes de travail\"",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=399608"
+    },
+    "405774": {
+     "files": [],
+     "fingerprint": "e31a62280a01635a33fec15f47882e9375c7df50",
+     "modname": "label",
+     "name": "Dès lors que vous avez compris (durant la semaine ...",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": ""
+    },
+    "435725": {
+     "files": [],
+     "fingerprint": "e3d20c50eb6b631d4bfc23686d94e316f5464be4",
+     "modname": "url",
+     "name": "Admis(e) dans notre Licence HA par Equivalence (années obtenues dans une autre filière) ou Réorientation, vous souhaitez bénéficier de Validations d'Acquis (VA) : voyez cette page, sur le site de la FSH",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=435725"
+    },
+    "435731": {
+     "files": [],
+     "fingerprint": "405d73e145721a2b91a1f592786b852a55870f86",
+     "modname": "url",
+     "name": "Notre Licence Histoire de l'art propose un TUTORAT, dispositif de \"soutien\", d'accompagnement... (page dédiée, dep. rentrée 2023)",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=435731"
+    },
+    "443304": {
+     "files": [],
+     "fingerprint": "35c2f4ea1c3b9e12c5fbdc944a9294f49e044d3f",
+     "modname": "url",
+     "name": "\"Idées noires, stress, angoisses, problèmes familiaux, isolement, solitude ? Venez en parler au CAMUS\", Centre d'accueil médico-psychologique de l'Unistra",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=443304"
+    },
+    "443306": {
+     "files": [],
+     "fingerprint": "a9cd4d1cb8e9f637097c533a2ebb0b2f331ba2e9",
+     "modname": "url",
+     "name": "Aide, prévention, soutien : portail d'autres ressources proposées aux étudiants de l'Unistra confrontés à des difficultés de vie personnelle",
+     "section": "📎  Bien vivre ensemble à l'université : règles de base &amp; questions pour tous",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=443306"
+    },
+    "454412": {
+     "files": [],
+     "fingerprint": "7f74ebee8400a1024dc91949215217dd8e7df798",
+     "modname": "url",
+     "name": "Procurez-vous ou remémorez-vous, avant toute chose, les éléments soulignés aux néo-entrants durant la pré-rentrée (rubrique précédente de cette page info), en particulier le DIAPORAMA, de cette pré-rentrée",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=454412"
+    },
+    "564798": {
+     "files": [],
+     "fingerprint": "d1c975514a2fa90822f75ef66194da7392b65b7e",
+     "modname": "url",
+     "name": "Le réseau bibliothèques des Musées de Strasbourg, en complément",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=564798"
+    },
+    "654325": {
+     "files": [],
+     "fingerprint": "20c1db33211b6f281d424241e9872f372f4b7e2e",
+     "modname": "url",
+     "name": "Stages : une fois obtenu l'accord d'un référent universitaire, créez votre convention depuis la nouvelle appli (en vigueur à partir de mi-septembre 2025), https://stages.unistra.fr",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=654325"
+    },
+    "654348": {
+     "files": [
+      {
+       "filename": "esup-stage mode emploi etudiant septembre 2025.pdf",
+       "filesize": 101706,
+       "timemodified": 1762761923
+      }
+     ],
+     "fingerprint": "415597fc4abe0a7e22749e8d9a47aae942e36231",
+     "modname": "resource",
+     "name": "Stages : pour compléter les indications fournies dans le Guide Licence annuel lui-même, ce mode d'emploi détaillé, concernant les aspects administratifs (Unistra, mise à jour septembre 2025)",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 1762761923,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=654348"
+    },
+    "782063": {
+     "files": [
+      {
+       "filename": "PO cours témoin session 2026....pdf",
+       "filesize": 16685771,
+       "timemodified": 1772107390
+      }
+     ],
+     "fingerprint": "c2095818316d26ec1196f8cc0f4b7f133f68f0e5",
+     "modname": "resource",
+     "name": "Les PO, 2026 : et pour cette session-ci nos visiteurs, durant le Cours témoin, plancheront sur...",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 1772107390,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=782063"
+    },
+    "841940": {
+     "files": [],
+     "fingerprint": "96203892a09e15b2108477688418ea02a973d09d",
+     "modname": "scheduler",
+     "name": "La signature des contrats pédagogiques se fera avec A. Corneloup, les lundi 7 et mardi 8 septembre 2026, au bureau de l'enseignante : réservez ici votre créneau de rendez-vous, parmi ceux encore disponibles qui s'affichent",
+     "section": "📎  Actualité de la rentrée : les contrats pédagogiques",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/scheduler/view.php?id=841940"
+    },
+    "850522": {
+     "files": [],
+     "fingerprint": "fd6bb37b910210dd745bbdab9fc8fc3aa375c71a",
+     "modname": "groupselect",
+     "name": "Choix \"Bible et image\" SH30DM31, maxi 30 personnes",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/groupselect/view.php?id=850522"
+    },
+    "852418": {
+     "files": [],
+     "fingerprint": "deff9b54de1a816d4b902a56da38873a42e0335c",
+     "modname": "url",
+     "name": "Nouveau, à partir de la rentrée 2026 : l'Unistra recrute des Ambassadeurs-étudiants, liens entre votre Faculté et les lycéens",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=852418"
+    },
+    "892233": {
+     "files": [
+      {
+       "filename": "Liste UE ouvertes aux non-spécialistes, in LICENCE HISTOIRE de LART 2026-2027 (AC, au 20-07-26).pdf",
+       "filesize": 137328,
+       "timemodified": 1784546062
+      }
+     ],
+     "fingerprint": "7b966f8ad5c840a5e4680b2410472e707174267f",
+     "modname": "resource",
+     "name": "Rappel des données techniques, pour les étudiants « non spécialistes » venant suivre un enseignement en Licence Histoire de l'art (AC, màj pour année 2026-2027)",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 1784546062,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=892233"
+    },
+    "892235": {
+     "files": [
+      {
+       "filename": "GUIDE LICENCE HISTOIRE DE LART 2026-2027 (AC, màj 20-07-26).pdf",
+       "filesize": 1325139,
+       "timemodified": 1784546418
+      }
+     ],
+     "fingerprint": "3bac4dcca493b8b976a244a613b293183a17c969",
+     "modname": "resource",
+     "name": "GUIDE des enseignements de Licence Histoire de l'art année 2026-2027 en PDF",
+     "section": "Préambule",
+     "timemodified": 1784546418,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=892235"
+    },
+    "893316": {
+     "files": [
+      {
+       "filename": "Calendrier_universitaire_2026-2027.pdf",
+       "filesize": 113451,
+       "timemodified": 1785141153
+      }
+     ],
+     "fingerprint": "631d2795dc1d0334f4a64155910947cf567bf401",
+     "modname": "resource",
+     "name": "CALENDRIER de l'année universitaire 2026-2027, diffusé sur le site Unistra, ici version PDF",
+     "section": "Préambule",
+     "timemodified": 1785141153,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=893316"
+    },
+    "893412": {
+     "files": [],
+     "fingerprint": "46d6c61bece6aedcee30961314c8176da185de18",
+     "modname": "label",
+     "name": "👋👋👋 Point focus du moment :",
+     "section": "Préambule",
+     "timemodified": 0,
+     "url": ""
+    },
+    "893913": {
+     "files": [],
+     "fingerprint": "536faf51a1ad1d34b52cb0e8a676373be678edf1",
+     "modname": "url",
+     "name": "... Pour choisir vos Matières, dans les UE à choix, lorsqu'elles sont HORS FSH, voir liste des UE OUVERTES aux \"non spécialistes\" par les autres facultés que la nôtre – à compléter avec les infos du site de la Faculté qui vous intéresse, liste ci-dessous",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=893913"
+    },
+    "894510": {
+     "files": [
+      {
+       "filename": "Programme_Pre-rentree_FSH_2026-2027.pdf",
+       "filesize": 165371,
+       "timemodified": 1785220976
+      }
+     ],
+     "fingerprint": "a41e81ac771daafdbd8e2fedd267b0b2155f3c67",
+     "modname": "resource",
+     "name": "Programme des journées de pré-rentrée 2026 à la Faculté des Sciences historiques",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 1785220976,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=894510"
+    },
+    "894564": {
+     "files": [],
+     "fingerprint": "0120a6a229899940dd9a1d2c784bb1f340d12129",
+     "modname": "url",
+     "name": "Vous vivrez vos études au Palais U principalement... mais sachez repérer aussi les autres campus, les autres bâtiments, grâce à la carte interactive Unistra, https://www.unistra.fr/fr/carte",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=894564"
+    },
+    "896999": {
+     "files": [],
+     "fingerprint": "1f7d7359b960e8fa92e5addec874a0316a1abc3d",
+     "modname": "url",
+     "name": "Pour accéder à vos relevés de notes, allez à https://ernest.unistra.fr puis...",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=896999"
+    },
+    "897006": {
+     "files": [
+      {
+       "filename": "Licence HA, diaporama de la réunion pré-rentrée  - En quelques images et quelques liens, une introduction... en vue d’une année fructueuse (A. Corneloup 2023, ici version septembre 2026).pdf",
+       "filesize": 36975516,
+       "timemodified": 1785947678
+      }
+     ],
+     "fingerprint": "94db1536e3630e893cff7ee81cdc19a2241b52b2",
+     "modname": "resource",
+     "name": "DIAPORAMA de la réunion pré-rentrée Licence HA : En quelques images et quelques liens, une introduction... en vue d’une année fructueuse (A. Corneloup 2023, ici version septembre 2026)",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 1785947678,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=897006"
+    },
+    "897368": {
+     "files": [],
+     "fingerprint": "b2f7a6c269d126e67a87d391109193a8b7c6f351",
+     "modname": "url",
+     "name": "Chargé de l'Orientation à l'Unistra, l'Espace Avenir peut aussi vous recevoir dans leurs locaux, ou même pour un rdv Orientation/Métier personnalisé : n'hésitez pas à les solliciter !",
+     "section": "📎  Stages, débouchés, environnement professionnel",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=897368"
+    },
+    "901953": {
+     "files": [],
+     "fingerprint": "01971362064fd774e2decbd7624e63585ad303e3",
+     "modname": "url",
+     "name": "Par ailleurs l'Unistra met à votre disposition tout un éventail de dispositifs d'aide à votre réussite, résumés sur cette page du site Unistra, que vous exploiterez sans hésiter, si le besoin s'en fait sentir, durant vos études à venir",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=901953"
+    },
+    "901958": {
+     "files": [],
+     "fingerprint": "a7ef016acb395270298f7c75328739fbdf07be76",
+     "modname": "url",
+     "name": "Rappel : l'Unistra met à votre disposition tout un éventail de dispositifs d'aide à votre réussite, résumés sur cette page du site Unistra",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=901958"
+    },
+    "901962": {
+     "files": [],
+     "fingerprint": "b0d2acdd6f6432450cab2289d014623a2a76b5db",
+     "modname": "url",
+     "name": "... Et si vous estimez avoir déjà bien assimilé la méthodologie niveau Licence, vous pouvez sans attendre aller consulter celle de Master bien sûr, en libre service (cycle org. AC)",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=901962"
+    },
+    "904405": {
+     "files": [],
+     "fingerprint": "0028ce0bffde66d2d64c249c20945b9d4f8fedb5",
+     "modname": "url",
+     "name": "Sur les outils numériques appliqués à l'histoire de l'art en particulier : l'onglet \"Digital AH\", du blog de l'APAHAU",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=904405"
+    },
+    "904406": {
+     "files": [],
+     "fingerprint": "c323cffe7ab1d13f1c032d53a3882a42827c14bb",
+     "modname": "url",
+     "name": "Sur les outils numériques appliqués à l'histoire de l'art en particulier : le carnet NUMRHA \"Numérique et recherche en histoire de l'art\", de l'INHA",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=904406"
+    },
+    "904408": {
+     "files": [],
+     "fingerprint": "9e25d73d061a709bbcb76225b35f7b63da2bfc19",
+     "modname": "label",
+     "name": "La recherche documentaire, en bibliothèques et en ...",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": ""
+    },
+    "904409": {
+     "files": [],
+     "fingerprint": "f0864158c7fb3681b9f3659f671ce3cd6ea88624",
+     "modname": "label",
+     "name": "L'outillage professionnel, de l'étudiant chercheur...",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": ""
+    },
+    "904410": {
+     "files": [],
+     "fingerprint": "4f99b726ab4e1f4b273f0874d07292cd977c2b80",
+     "modname": "label",
+     "name": "Bons usages et perspectives, du numérique appliqué...",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": ""
+    },
+    "905268": {
+     "files": [],
+     "fingerprint": "2274817a66182b2bffc063252c6a996766bcb0c9",
+     "modname": "url",
+     "name": "Séquences interactives (proposées par l'U Sorbonne Nouvelle), pour découvrir les outils fondamentaux de la recherche documentaire",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=905268"
+    },
+    "910945": {
+     "files": [],
+     "fingerprint": "9405a60890a091e98ce8a10f6692f23f578b8e4c",
+     "modname": "url",
+     "name": "Un lieu clé pour la réussite de vos études et votre bien-être quotidien : les bibliothèques de l'Unistra ! (découverte en vidéo)",
+     "section": "📎  Actualité de la rentrée : pour les L1 et tout néo-entrant",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=910945"
+    },
+    "914327": {
+     "files": [],
+     "fingerprint": "0701239478d4c6b3746920f11c74eb435cc71842",
+     "modname": "url",
+     "name": "Pour la recherche de notices d'œuvres, notamment l'incontournale portail POP (dep. 2020), Plateforme Ouverte du Patrimoine français",
+     "section": "📎  Ressources, méthodes, outils : pour les études, pour nos métiers",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=914327"
+    },
+    "935486": {
+     "files": [],
+     "fingerprint": "b2350bc87a4ae71df92e171f8f9771035764a36f",
+     "modname": "url",
+     "name": "Votre période de rentrée des cours : étape 1 de l'année académique, à vivre sereinement et pleinement, en vue de la suite !",
+     "section": "Préambule",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=935486"
+    },
+    "959083": {
+     "files": [
+      {
+       "filename": "Fiche VA Licence Histoire de lart (mise à jour 2026).pdf",
+       "filesize": 54526,
+       "timemodified": 1790095039
+      }
+     ],
+     "fingerprint": "0405f07a478f5d200066dbd2b0e7c0592ac1164b",
+     "modname": "resource",
+     "name": "Fiche Validation d'acquis",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 1790095039,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=959083"
+    },
+    "984495": {
+     "files": [
+      {
+       "filename": "Procédure déclaration absence, points à bien noter (Dir. admin. FSH oct. 2026).pdf",
+       "filesize": 68582,
+       "timemodified": 1791457961
+      }
+     ],
+     "fingerprint": "8c9aec73d1aa6f1fe2df64774da17b0f85e6caff",
+     "modname": "resource",
+     "name": "En cas d'absence, à un CC ou CT : la Scolarité attire votre attention sur ces points au besoin, à bien noter pour éviter tout souci",
+     "section": "📎  Inscriptions, examens, démarches administratives",
+     "timemodified": 1791457961,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=984495"
+    }
+   },
+   "name": "L1 à L3 - Page info Licence Histoire de l'art"
+  },
+  "8753": {
+   "initialized": true,
+   "items": {
+    "348881": {
+     "files": [],
+     "fingerprint": "cbeafea9d6a32744cfd23163fd34533140240187",
+     "modname": "forum",
+     "name": "Annonces",
+     "section": "•••",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/forum/view.php?id=348881"
+    },
+    "348882": {
+     "files": [],
+     "fingerprint": "6a7bdcfeb0515becb19d5b1f5bf6e99b04ca33f4",
+     "modname": "label",
+     "name": "Rentrée 2026 : Bonjour à tous ! Cette année c'est ...",
+     "section": "Voyage des L3 : org. D. Fan, collab. A. Corneloup, pour printemps 2027",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348883": {
+     "files": [],
+     "fingerprint": "f19fde8ce016f5006c63426f6d236494fdd82b87",
+     "modname": "label",
+     "name": "Étudiants de L3, voici des nouvelles du Voyage d'é...",
+     "section": "Voyage des L3 : à Genève, org. V. Da Costa, mai 2024",
+     "timemodified": 0,
+     "url": ""
+    },
+    "348884": {
+     "files": [],
+     "fingerprint": "a5bbc1c54aecd5195063702ab0bf891978276fad",
+     "modname": "url",
+     "name": "Reco A. Corneloup : Pour repérer par avance, au MAH Musée d'art et d'histoire de Genève, les œuvres en lien avec vos cours qui pourraient vous intéresser : leur base \"Recherche dans les collections\"",
+     "section": "Voyage des L3 : à Genève, org. V. Da Costa, mai 2024",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=348884"
+    },
+    "912410": {
+     "files": [],
+     "fingerprint": "037d4a34afaa1d747e039f04ea75d96a3ce44ab7",
+     "modname": "label",
+     "name": "5 novembre 2024 :Comme vous l'avez vu, cette année... (copie)",
+     "section": "Voyage des L3 : autour d'Innsbruck, org. N. Ben Azzouna et F. Kieffer, mars 2025",
+     "timemodified": 0,
+     "url": ""
+    },
+    "912593": {
+     "files": [],
+     "fingerprint": "6f2ef3b4d615022c049e14938b0bb87a5fe751f3",
+     "modname": "label",
+     "name": "5 novembre 2024 :Comme vous l'avez vu, cette année...",
+     "section": "Voyage des L3 : à Munich, org. D. Borlée et F. Kieffer, avril 2026",
+     "timemodified": 0,
+     "url": ""
+    },
+    "912614": {
+     "files": [],
+     "fingerprint": "4aeb758190bcde58c20b27daf77f97cca6e77810",
+     "modname": "feedback",
+     "name": "Sélection des participants : une fois annoncées destination et date du voyage, précisez-nous ici en une dizaine de lignes environ votre motivation",
+     "section": "Voyage des L3 : org. D. Fan, collab. A. Corneloup, pour printemps 2027",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/feedback/view.php?id=912614"
+    },
+    "912765": {
+     "files": [],
+     "fingerprint": "bde04c3961c9d64df143b50d741570a3f31d24ab",
+     "modname": "assign",
+     "name": "Évaluation : à l'issue du voyage nous vous demanderons de déposer ici votre contribution d'ici au 24 mai inclus, pour la note de cette Matière...",
+     "section": "Voyage des L3 : org. D. Fan, collab. A. Corneloup, pour printemps 2027",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/assign/view.php?id=912765"
+    }
+   },
+   "name": "L3 - Voyage annuel (SH30FM41)"
+  }
+ },
+ "version": 1
+}
