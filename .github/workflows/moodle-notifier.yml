@@ -1,0 +1,59 @@
+name: moodle-notifier
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: moodle-notifier
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install --quiet -r requirements.txt
+
+      - name: Écrire la configuration depuis les secrets
+        env:
+          MOODLE_ENV: ${{ secrets.MOODLE_ENV }}
+        run: printf '%s\n' "$MOODLE_ENV" > moodle-notifier.env
+
+      - name: Vérifier les cours Moodle
+        run: >
+          python moodle_notifier.py
+          --env-file moodle-notifier.env
+          --courses-file config/courses.yml
+          --state-file state.json
+          --once
+
+      - name: Enregistrer l'état (anti-doublon)
+        run: |
+          git config user.name "moodle-notifier"
+          git config user.email "moodle-notifier@users.noreply.github.com"
+          if [ -f state.json ]; then
+            git add -f state.json
+          fi
+          if [ "$(date -u +%d)" = "01" ]; then
+            date -u > .keepalive
+            git add .keepalive
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m "état $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

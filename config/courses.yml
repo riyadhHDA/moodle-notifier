@@ -1,0 +1,22 @@
+# Cours surveillés (IDs Moodle — stables). Modifier puis redémarrer le service.
+courses:
+  - id: 17080
+    name: "Introduction à l'intelligence artificielle et à ses applications"
+  - id: 25210
+    name: "La sculpture au XXe siècle"
+  - id: 8745
+    name: "L1 à L3 - Page info Licence Histoire de l'art"
+  - id: 8753
+    name: "L3 - Voyage annuel (SH30FM41)"
+  - id: 25110
+    name: "SH30EM10 - L3 S5 - CM - L'art du Moyen Âge en Occident : l'époque gothique"
+  - id: 16191
+    name: "Nature, jardins et paysages à l'époque moderne"
+  - id: 5695
+    name: "La peinture romantique en Allemagne"
+  - id: 24256
+    name: "L3 SH30EM20 2026-2027 La gravure à l'époque moderne : diffusion des modèles et circulation des savoirs"
+  - id: 26064
+    name: "L3 - HUMANITÉS NUMÉRIQUES APPLIQUÉES À L'HISTOIRE DE L'ART (SH30EM50, 2026-2027)"
+  - id: 25074
+    name: "SH30EM10 L'art du XVe siècle dans le Rhin supérieur"
