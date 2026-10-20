@@ -885,21 +885,6 @@
   "5695": {
    "initialized": true,
    "items": {
-    "1002109": {
-     "files": [
-      {
-       "filename": "Conseils_commentaire_L3.pdf",
-       "filesize": 256263,
-       "timemodified": 1792503923
-      }
-     ],
-     "fingerprint": "55189cbe105d9983b8bf1b887fecc8a794ff1f0f",
-     "modname": "resource",
-     "name": "Conseils commentaire L3",
-     "section": "Conseils pour l'examen",
-     "timemodified": 1792503923,
-     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1002109"
-    },
     "1002110": {
      "files": [
       {
@@ -914,6 +899,21 @@
      "section": "Conseils pour l'examen",
      "timemodified": 1792503923,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1002110"
+    },
+    "1002571": {
+     "files": [
+      {
+       "filename": "Conseils_commentaire_L3.pdf",
+       "filesize": 256335,
+       "timemodified": 1792514847
+      }
+     ],
+     "fingerprint": "7c1150e7578acf31d6749bdfed752beda6734633",
+     "modname": "resource",
+     "name": "Conseils commentaire L3",
+     "section": "Conseils pour l'examen",
+     "timemodified": 1792514847,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1002571"
     },
     "241724": {
      "files": [],
