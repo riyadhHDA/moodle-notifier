@@ -876,6 +876,36 @@
   "5695": {
    "initialized": true,
    "items": {
+    "1002109": {
+     "files": [
+      {
+       "filename": "Conseils_commentaire_L3.pdf",
+       "filesize": 256263,
+       "timemodified": 1792503923
+      }
+     ],
+     "fingerprint": "55189cbe105d9983b8bf1b887fecc8a794ff1f0f",
+     "modname": "resource",
+     "name": "Conseils commentaire L3",
+     "section": "Conseils pour l'examen",
+     "timemodified": 1792503923,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1002109"
+    },
+    "1002110": {
+     "files": [
+      {
+       "filename": "Exemple_Commentaire_Manet_Nana.pdf",
+       "filesize": 501804,
+       "timemodified": 1792503923
+      }
+     ],
+     "fingerprint": "e461a82ebf8a95596947ee4434846303b7b2c7b4",
+     "modname": "resource",
+     "name": "Exemple Commentaire Manet Nana",
+     "section": "Conseils pour l'examen",
+     "timemodified": 1792503923,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1002110"
+    },
     "241724": {
      "files": [],
      "fingerprint": "4d3c0bf24c252eece7b09e19af28539df762f87f",
