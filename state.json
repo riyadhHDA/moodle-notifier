@@ -93,6 +93,168 @@
   "24256": {
    "initialized": true,
    "items": {
+    "1005191": {
+     "files": [],
+     "fingerprint": "6a53bdcd59903f10e9ffef8bb52c62ab1047822c",
+     "modname": "label",
+     "name": "Afin d’assurer le bon déroulement du cours jusqu'à...",
+     "section": "Généralités",
+     "timemodified": 0,
+     "url": ""
+    },
+    "1007193": {
+     "files": [],
+     "fingerprint": "d14708096129f2056b62dc364913c9aeba613156",
+     "modname": "subsection",
+     "name": "CM séance 4 - lundi 26 octobre",
+     "section": "4 séances durant la semaine du 26 octobre",
+     "timemodified": 0,
+     "url": ""
+    },
+    "1007195": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 04 12.pdf",
+       "filesize": 7273280,
+       "timemodified": 1793027617
+      }
+     ],
+     "fingerprint": "9e4db77f90ea1fe41def795d5f367aaeaf59836e",
+     "modname": "resource",
+     "name": "CM 04 PPT 1/2",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793027617,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007195"
+    },
+    "1007196": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 04 22.pdf",
+       "filesize": 9137963,
+       "timemodified": 1793027633
+      }
+     ],
+     "fingerprint": "76a05d4036ea0bf89615688cb1f399d865b9a2c1",
+     "modname": "resource",
+     "name": "CM 04 PPT 2/2",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793027633,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007196"
+    },
+    "1007199": {
+     "files": [
+      {
+       "filename": "CM 04 part 1.mp3",
+       "filesize": 5544773,
+       "timemodified": 1793027695
+      }
+     ],
+     "fingerprint": "16d14bc777601b72d717391274452b3cec529c16",
+     "modname": "resource",
+     "name": "CM 04 Audio part 1",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793027695,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007199"
+    },
+    "1007286": {
+     "files": [],
+     "fingerprint": "8c5e21386218ab524faf1abea93cde2e65eb4ddb",
+     "modname": "label",
+     "name": "Bonjour, en transformant l'enregistrement audio au...",
+     "section": "4 séances durant la semaine du 26 octobre",
+     "timemodified": 0,
+     "url": ""
+    },
+    "1007288": {
+     "files": [
+      {
+       "filename": "CM 04 part 2.mp3",
+       "filesize": 4498412,
+       "timemodified": 1793035437
+      }
+     ],
+     "fingerprint": "ab29ab2557fed5bffc8b784b3f5f70742f302054",
+     "modname": "resource",
+     "name": "CM 04 Audio part 2",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035437,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007288"
+    },
+    "1007291": {
+     "files": [
+      {
+       "filename": "CM 04 part 3.mp3",
+       "filesize": 6412456,
+       "timemodified": 1793035515
+      }
+     ],
+     "fingerprint": "9acb96afd9ff25d117879f47c788757eaaeed268",
+     "modname": "resource",
+     "name": "CM 04 Audio part 3",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035515,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007291"
+    },
+    "1007292": {
+     "files": [
+      {
+       "filename": "CM 04 part 4.mp3",
+       "filesize": 7066353,
+       "timemodified": 1793035581
+      }
+     ],
+     "fingerprint": "83315fa71f751ce2ced5707c825f8ab825252ce0",
+     "modname": "resource",
+     "name": "CM 04 Audio part 4",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035581,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007292"
+    },
+    "1007293": {
+     "files": [
+      {
+       "filename": "CM 04 part 5.mp3",
+       "filesize": 4522235,
+       "timemodified": 1793035679
+      }
+     ],
+     "fingerprint": "e8bf8b2dd89e0cdf78eb72c38b78d0f87e9c8281",
+     "modname": "resource",
+     "name": "CM 04 Audio part 5",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035679,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007293"
+    },
+    "1007294": {
+     "files": [
+      {
+       "filename": "CM 04 part 6.mp3",
+       "filesize": 4867052,
+       "timemodified": 1793035737
+      }
+     ],
+     "fingerprint": "8ddb3b7594b73e17c33a4de176e65c8337b37436",
+     "modname": "resource",
+     "name": "CM 04 Audio part 6",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035737,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007294"
+    },
+    "1007295": {
+     "files": [
+      {
+       "filename": "CM 04 part 7.mp3",
+       "filesize": 6959355,
+       "timemodified": 1793035801
+      }
+     ],
+     "fingerprint": "b406318c923e004c9acb221d50399ba8f7bfb3db",
+     "modname": "resource",
+     "name": "CM 04 Audio part 7",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035801,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007295"
+    },
     "912920": {
      "files": [],
      "fingerprint": "1d473c2227eb4a2029573742aa6e46d89fdea5f4",
@@ -122,9 +284,9 @@
     },
     "988998": {
      "files": [],
-     "fingerprint": "2ff86dd9789acdaa8f1702aed20edd69c8f6c966",
+     "fingerprint": "192a5879016c46d1010eea8a91aacfa23b02a440",
      "modname": "bigbluebuttonbn",
-     "name": "Classe virtuelle",
+     "name": "Classe virtuelle - L3 Gravure",
      "section": "Cours en distanciel en cas de blocage",
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/bigbluebuttonbn/view.php?id=988998"
@@ -146,15 +308,6 @@
      "section": "Ressources vidéo",
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=991940"
-    },
-    "993424": {
-     "files": [],
-     "fingerprint": "c8edabc30d6aaabf7aa5e7755d78c1f5fd04ecd9",
-     "modname": "label",
-     "name": "Cours du mercredi 14 octobre",
-     "section": "Généralités",
-     "timemodified": 0,
-     "url": ""
     }
    },
    "name": "L3 SH30EM20 2026-2027 La gravure à l'époque moderne : diffusion des modèles et circulation des savoirs"
@@ -162,6 +315,45 @@
   "25074": {
    "initialized": true,
    "items": {
+    "1003955": {
+     "files": [],
+     "fingerprint": "352c3cfce7f0d0f52c92211ff4cca68ae435ffd3",
+     "modname": "bigbluebuttonbn",
+     "name": "Cours du 22/10",
+     "section": "Cours 6 Les manuscrits de l’atelier de 1418 et de D. Lauber",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/bigbluebuttonbn/view.php?id=1003955"
+    },
+    "1004460": {
+     "files": [
+      {
+       "filename": "Bibliographie Atelier de 1418 et Atelier de Diebold Lauber.pdf",
+       "filesize": 91326,
+       "timemodified": 1792663809
+      }
+     ],
+     "fingerprint": "fc1beb2ca3f40541b47485004a11afed06a414c3",
+     "modname": "resource",
+     "name": "Bibliographie et lien vers manuscrits numérisés",
+     "section": "Cours 6 Les manuscrits de l’atelier de 1418 et de D. Lauber",
+     "timemodified": 1792663809,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1004460"
+    },
+    "1004484": {
+     "files": [
+      {
+       "filename": "L3 Rue des Juifs moodle.pdf",
+       "filesize": 9001410,
+       "timemodified": 1792664604
+      }
+     ],
+     "fingerprint": "ee479c97ecc442e1d39ff50511ff7e7644c94d4d",
+     "modname": "resource",
+     "name": "Images du cours",
+     "section": "Peinture murale : le 15 rue des Juifs",
+     "timemodified": 1792664604,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1004484"
+    },
     "932414": {
      "files": [],
      "fingerprint": "acb72cd63471544d5b98e0d5ab12f4d50a5c42ec",
@@ -845,18 +1037,18 @@
     },
     "965498": {
      "files": [],
-     "fingerprint": "01b31dfff5cbfd4111b986e0a3e361e3375f3fbd",
+     "fingerprint": "2960598fb1fb6d6c7f5d518d39a1cca0a0f2a574",
      "modname": "subsection",
-     "name": "1. RECHERCHER. Documentation, science ouverte et valorisation de la recherche",
+     "name": "1. RECHERCHER. Documentation, plateformes et bases de données",
      "section": "I. Ressources à travailler en autonomie",
      "timemodified": 0,
      "url": ""
     },
     "965499": {
      "files": [],
-     "fingerprint": "def87bd132b64ba76fe75716bf879d850f7190dd",
+     "fingerprint": "af66660cd28a39f07818d01bf1ad4c89cde1b56b",
      "modname": "subsection",
-     "name": "2. GÉRER. Bibliographie et bases de données",
+     "name": "2. GÉRER. Bibliographie et valorisation des résultats de la recherche",
      "section": "I. Ressources à travailler en autonomie",
      "timemodified": 0,
      "url": ""
