@@ -252,6 +252,21 @@
      "timemodified": 1793119163,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007759"
     },
+    "1007763": {
+     "files": [
+      {
+       "filename": "CM 05 part 7.mp3",
+       "filesize": 3021933,
+       "timemodified": 1793119837
+      }
+     ],
+     "fingerprint": "1e9ea43f06d7f626e9d34e547cede7df4a8815d8",
+     "modname": "resource",
+     "name": "CM 05 Audio part 7",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793119837,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007763"
+    },
     "912920": {
      "files": [],
      "fingerprint": "1d473c2227eb4a2029573742aa6e46d89fdea5f4",
