@@ -138,11 +138,164 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1007039"
     },
+    "1007193": {
+     "files": [],
+     "fingerprint": "d14708096129f2056b62dc364913c9aeba613156",
+     "modname": "subsection",
+     "name": "CM séance 4 - lundi 26 octobre",
+     "section": "4 séances durant la semaine du 26 octobre",
+     "timemodified": 0,
+     "url": ""
+    },
+    "1007195": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 04 12.pdf",
+       "filesize": 7273280,
+       "timemodified": 1793027617
+      }
+     ],
+     "fingerprint": "9e4db77f90ea1fe41def795d5f367aaeaf59836e",
+     "modname": "resource",
+     "name": "CM 04 PPT 1/2",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793027617,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007195"
+    },
+    "1007196": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 04 22.pdf",
+       "filesize": 9137963,
+       "timemodified": 1793027633
+      }
+     ],
+     "fingerprint": "76a05d4036ea0bf89615688cb1f399d865b9a2c1",
+     "modname": "resource",
+     "name": "CM 04 PPT 2/2",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793027633,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007196"
+    },
+    "1007199": {
+     "files": [
+      {
+       "filename": "CM 04 part 1.mp3",
+       "filesize": 5544773,
+       "timemodified": 1793027695
+      }
+     ],
+     "fingerprint": "16d14bc777601b72d717391274452b3cec529c16",
+     "modname": "resource",
+     "name": "CM 04 Audio part 1",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793027695,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007199"
+    },
     "1007286": {
      "files": [],
      "fingerprint": "8c5e21386218ab524faf1abea93cde2e65eb4ddb",
      "modname": "label",
      "name": "Bonjour, en transformant l'enregistrement audio au...",
+     "section": "4 séances durant la semaine du 26 octobre",
+     "timemodified": 0,
+     "url": ""
+    },
+    "1007288": {
+     "files": [
+      {
+       "filename": "CM 04 part 2.mp3",
+       "filesize": 4498412,
+       "timemodified": 1793035437
+      }
+     ],
+     "fingerprint": "ab29ab2557fed5bffc8b784b3f5f70742f302054",
+     "modname": "resource",
+     "name": "CM 04 Audio part 2",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035437,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007288"
+    },
+    "1007291": {
+     "files": [
+      {
+       "filename": "CM 04 part 3.mp3",
+       "filesize": 6412456,
+       "timemodified": 1793035515
+      }
+     ],
+     "fingerprint": "9acb96afd9ff25d117879f47c788757eaaeed268",
+     "modname": "resource",
+     "name": "CM 04 Audio part 3",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035515,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007291"
+    },
+    "1007292": {
+     "files": [
+      {
+       "filename": "CM 04 part 4.mp3",
+       "filesize": 7066353,
+       "timemodified": 1793035581
+      }
+     ],
+     "fingerprint": "83315fa71f751ce2ced5707c825f8ab825252ce0",
+     "modname": "resource",
+     "name": "CM 04 Audio part 4",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035581,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007292"
+    },
+    "1007293": {
+     "files": [
+      {
+       "filename": "CM 04 part 5.mp3",
+       "filesize": 4522235,
+       "timemodified": 1793035679
+      }
+     ],
+     "fingerprint": "e8bf8b2dd89e0cdf78eb72c38b78d0f87e9c8281",
+     "modname": "resource",
+     "name": "CM 04 Audio part 5",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035679,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007293"
+    },
+    "1007294": {
+     "files": [
+      {
+       "filename": "CM 04 part 6.mp3",
+       "filesize": 4867052,
+       "timemodified": 1793035737
+      }
+     ],
+     "fingerprint": "8ddb3b7594b73e17c33a4de176e65c8337b37436",
+     "modname": "resource",
+     "name": "CM 04 Audio part 6",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035737,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007294"
+    },
+    "1007295": {
+     "files": [
+      {
+       "filename": "CM 04 part 7.mp3",
+       "filesize": 6959355,
+       "timemodified": 1793035801
+      }
+     ],
+     "fingerprint": "b406318c923e004c9acb221d50399ba8f7bfb3db",
+     "modname": "resource",
+     "name": "CM 04 Audio part 7",
+     "section": "CM séance 4 - lundi 26 octobre",
+     "timemodified": 1793035801,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007295"
+    },
+    "1007317": {
+     "files": [],
+     "fingerprint": "8cb0e19f4a9aa356620e47ee59baf4f8c77b9af3",
+     "modname": "subsection",
+     "name": "CM séance 5 - mardi 27 octobre",
      "section": "4 séances durant la semaine du 26 octobre",
      "timemodified": 0,
      "url": ""
@@ -155,6 +308,150 @@
      "section": "4 séances durant la semaine du 26 octobre",
      "timemodified": 0,
      "url": ""
+    },
+    "1007319": {
+     "files": [],
+     "fingerprint": "53f63590ad217472b80cbf5fd25ac83300cdaec6",
+     "modname": "subsection",
+     "name": "CM séance 7 - jeudi 29 octobre",
+     "section": "4 séances durant la semaine du 26 octobre",
+     "timemodified": 0,
+     "url": ""
+    },
+    "1007320": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 05.pdf",
+       "filesize": 5132230,
+       "timemodified": 1793041270
+      }
+     ],
+     "fingerprint": "c52b6f232433300f1a2fe46ac1ae69b2f9150f83",
+     "modname": "resource",
+     "name": "CM 05 PPT",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793041270,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007320"
+    },
+    "1007322": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 07.pdf",
+       "filesize": 8472421,
+       "timemodified": 1793041301
+      }
+     ],
+     "fingerprint": "9f6ffbd1b71b980407d101a7cfdcca32574a7eba",
+     "modname": "resource",
+     "name": "CM 07 PPT",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793041301,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007322"
+    },
+    "1007691": {
+     "files": [
+      {
+       "filename": "CM 05 part 1.mp3",
+       "filesize": 7724967,
+       "timemodified": 1793112905
+      }
+     ],
+     "fingerprint": "703e2a175a3d5a6b2d4d673586d4d9f097992f90",
+     "modname": "resource",
+     "name": "CM 05 Audio part 1",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793112905,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007691"
+    },
+    "1007707": {
+     "files": [
+      {
+       "filename": "CM 05 part 2.mp3",
+       "filesize": 4869678,
+       "timemodified": 1793113907
+      }
+     ],
+     "fingerprint": "eec77ff44919a1df3e0c1b2893ea3a50875a873b",
+     "modname": "resource",
+     "name": "CM 05 Audio part 2",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793113907,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007707"
+    },
+    "1007718": {
+     "files": [
+      {
+       "filename": "CM 05 part 3.mp3",
+       "filesize": 6588431,
+       "timemodified": 1793115172
+      }
+     ],
+     "fingerprint": "8735b01168a684a63b9b59cc396e6332e91ec0b8",
+     "modname": "resource",
+     "name": "CM 05 Audio part 3",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793115172,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007718"
+    },
+    "1007737": {
+     "files": [
+      {
+       "filename": "CM 05 part 4.mp3",
+       "filesize": 4651817,
+       "timemodified": 1793116339
+      }
+     ],
+     "fingerprint": "6de85f1c796a8f8d2fb8cdc6ddf61b325a812894",
+     "modname": "resource",
+     "name": "CM 05 Audio part 4",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793116339,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007737"
+    },
+    "1007753": {
+     "files": [
+      {
+       "filename": "CM 05 part 5.mp3",
+       "filesize": 5190984,
+       "timemodified": 1793117952
+      }
+     ],
+     "fingerprint": "4ce83e325ee71abcbfdac09e1ed4e5b813ba9207",
+     "modname": "resource",
+     "name": "CM 05 Audio part 5",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793117952,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007753"
+    },
+    "1007759": {
+     "files": [
+      {
+       "filename": "CM 05 part 6.mp3",
+       "filesize": 6252235,
+       "timemodified": 1793119163
+      }
+     ],
+     "fingerprint": "79dc3d47520fcadeed3efb3c4ebdc9546a080019",
+     "modname": "resource",
+     "name": "CM 05 Audio part 6",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793119163,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007759"
+    },
+    "1007763": {
+     "files": [
+      {
+       "filename": "CM 05 part 7.mp3",
+       "filesize": 3021933,
+       "timemodified": 1793119837
+      }
+     ],
+     "fingerprint": "1e9ea43f06d7f626e9d34e547cede7df4a8815d8",
+     "modname": "resource",
+     "name": "CM 05 Audio part 7",
+     "section": "CM séance 5 - mardi 27 octobre",
+     "timemodified": 1793119837,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007763"
     },
     "1008075": {
      "files": [
@@ -260,6 +557,111 @@
      "section": "CM séance 6 - mercredi 28 octobre",
      "timemodified": 1793202529,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008145"
+    },
+    "1008170": {
+     "files": [
+      {
+       "filename": "CM 07 part 1.mp3",
+       "filesize": 6936068,
+       "timemodified": 1793206451
+      }
+     ],
+     "fingerprint": "b9849b25162a27f6e40b54046cde41f50ea1bc0e",
+     "modname": "resource",
+     "name": "CM 07 Audio part 1",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793206451,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008170"
+    },
+    "1008172": {
+     "files": [
+      {
+       "filename": "CM 07 part 2.mp3",
+       "filesize": 5831245,
+       "timemodified": 1793207586
+      }
+     ],
+     "fingerprint": "42d80f4ad4d1d321ef4259b6f73dd3d6115f690c",
+     "modname": "resource",
+     "name": "CM 07 Audio part 2",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793207586,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008172"
+    },
+    "1008184": {
+     "files": [
+      {
+       "filename": "CM 07 part 3.mp3",
+       "filesize": 7084339,
+       "timemodified": 1793208911
+      }
+     ],
+     "fingerprint": "b2fb2e85ac463b016ed654234f72ce9a9f5f09f0",
+     "modname": "resource",
+     "name": "CM 07 Audio part 3",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793208911,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008184"
+    },
+    "1008196": {
+     "files": [
+      {
+       "filename": "CM 07 part 4.mp3",
+       "filesize": 5724509,
+       "timemodified": 1793210204
+      }
+     ],
+     "fingerprint": "1fc4e5563d87f9bc5f195a6122488718bfb22a60",
+     "modname": "resource",
+     "name": "CM 07 Audio part 4",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793210204,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008196"
+    },
+    "1008203": {
+     "files": [
+      {
+       "filename": "CM 07 part 5.mp3",
+       "filesize": 4308411,
+       "timemodified": 1793211012
+      }
+     ],
+     "fingerprint": "8853953fc4fc6cb1e6c7b837372522cbdbf5c54f",
+     "modname": "resource",
+     "name": "CM 07 Audio part 5",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793211012,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008203"
+    },
+    "1008213": {
+     "files": [
+      {
+       "filename": "CM 07 part 6.mp3",
+       "filesize": 4352140,
+       "timemodified": 1793212164
+      }
+     ],
+     "fingerprint": "2fa625a9df7862fa573c5b3342c37d17dbd66657",
+     "modname": "resource",
+     "name": "CM 07 Audio part 6",
+     "section": "CM séance 7 - jeudi 29 octobre",
+     "timemodified": 1793212164,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008213"
+    },
+    "1008214": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 01-03_compressed.pdf",
+       "filesize": 9182200,
+       "timemodified": 1793212384
+      }
+     ],
+     "fingerprint": "af9fcb630b48bbf8f01a5eb930b04373a39bbf6e",
+     "modname": "resource",
+     "name": "CM 01-03 PPT",
+     "section": "Supports de cours",
+     "timemodified": 1793212384,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008214"
     },
     "912920": {
      "files": [],
