@@ -882,6 +882,21 @@
   "25110": {
    "initialized": true,
    "items": {
+    "1008391": {
+     "files": [
+      {
+       "filename": "Planning - bibliographie.pdf",
+       "filesize": 393158,
+       "timemodified": 1793279708
+      }
+     ],
+     "fingerprint": "3b33f033a9abe9de069c1951c7f438596b64c9a3",
+     "modname": "resource",
+     "name": "Planning - bibliographie (màj 29/10/26)",
+     "section": "Généralités",
+     "timemodified": 1793279708,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008391"
+    },
     "933382": {
      "files": [],
      "fingerprint": "fcf5aa7fb0a11a3a5118f5149f16b253ec0e376a",
@@ -959,21 +974,6 @@
      "section": "Généralités",
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/choice/view.php?id=986249"
-    },
-    "993919": {
-     "files": [
-      {
-       "filename": "Planning - bibliographie.pdf",
-       "filesize": 395671,
-       "timemodified": 1791972841
-      }
-     ],
-     "fingerprint": "60ae6f9d9f13ac42e78fb957b99a0528c0117cb7",
-     "modname": "resource",
-     "name": "Planning - bibliographie (màj 14/10/26)",
-     "section": "Généralités",
-     "timemodified": 1791972841,
-     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=993919"
     },
     "993922": {
      "files": [],
