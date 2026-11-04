@@ -1065,6 +1065,15 @@
   "8745": {
    "initialized": true,
    "items": {
+    "1013786": {
+     "files": [],
+     "fingerprint": "74da929cc90b2027fd8f765b29b0bc5b011a5285",
+     "modname": "url",
+     "name": "Contacts, entraide : relisez ici la lettre de l'AESH à votre attention (nov. 2026)",
+     "section": "📎  Faire connaître et faire vivre, à votre tour, votre université...",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1013786"
+    },
     "348436": {
      "files": [],
      "fingerprint": "0eec459fb13af2f9530545343e6b99880f359049",
