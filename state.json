@@ -129,6 +129,81 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1007039"
     },
+    "1007195": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 04 12.pdf",
+       "filesize": 7273280,
+       "timemodified": 1793027617
+      }
+     ],
+     "fingerprint": "ff38207e0869e3d820af0db30101cf31d223e7f9",
+     "modname": "resource",
+     "name": "CM 04 PPT 1/2",
+     "section": "Supports de cours",
+     "timemodified": 1793027617,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007195"
+    },
+    "1007196": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 04 22.pdf",
+       "filesize": 9137963,
+       "timemodified": 1793027633
+      }
+     ],
+     "fingerprint": "3f38edfd0e0d3c17380f09b1b00dd3a6a9094a80",
+     "modname": "resource",
+     "name": "CM 04 PPT 2/2",
+     "section": "Supports de cours",
+     "timemodified": 1793027633,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007196"
+    },
+    "1007320": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 05.pdf",
+       "filesize": 5132230,
+       "timemodified": 1793041270
+      }
+     ],
+     "fingerprint": "718a235fda843fa19ce38ec99df21065ac346f2c",
+     "modname": "resource",
+     "name": "CM 05 PPT",
+     "section": "Supports de cours",
+     "timemodified": 1793041270,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007320"
+    },
+    "1007322": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 07.pdf",
+       "filesize": 8472421,
+       "timemodified": 1793041301
+      }
+     ],
+     "fingerprint": "c4b45dbe32b126e057c8ce84d7ac05b70a849c01",
+     "modname": "resource",
+     "name": "CM 07 PPT",
+     "section": "Supports de cours",
+     "timemodified": 1793041301,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1007322"
+    },
+    "1008123": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 06.pdf",
+       "filesize": 4429021,
+       "timemodified": 1793200799
+      }
+     ],
+     "fingerprint": "725dc573bef9e974bbab6553e3d2deacc0e06e4b",
+     "modname": "resource",
+     "name": "CM 06 PPT",
+     "section": "Supports de cours",
+     "timemodified": 1793200799,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008123"
+    },
     "1008214": {
      "files": [
       {
@@ -161,6 +236,21 @@
      "section": "Ressources vidéo",
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1011361"
+    },
+    "1014817": {
+     "files": [
+      {
+       "filename": "SH30EM20 CM 08_compressed.pdf",
+       "filesize": 9633319,
+       "timemodified": 1793817564
+      }
+     ],
+     "fingerprint": "78ba6a274240e61e57928e003291beaf15a6f70b",
+     "modname": "resource",
+     "name": "CM 08 PPT",
+     "section": "Supports de cours",
+     "timemodified": 1793817564,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1014817"
     },
     "912920": {
      "files": [],
