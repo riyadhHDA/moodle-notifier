@@ -630,6 +630,21 @@
   "25210": {
    "initialized": true,
    "items": {
+    "1015338": {
+     "files": [
+      {
+       "filename": "CM SCULPTURE 7 diapo.pdf",
+       "filesize": 2898012,
+       "timemodified": 1793873425
+      }
+     ],
+     "fingerprint": "4b31fab7fd62fc41260ac19f8b63b0643c6327eb",
+     "modname": "resource",
+     "name": "CM sculpture 7 diapo",
+     "section": "Séance 7 : Cinétisme",
+     "timemodified": 1793873425,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015338"
+    },
     "936124": {
      "files": [],
      "fingerprint": "b26d34a07a29962deeb88e92f83eda094c00c864",
