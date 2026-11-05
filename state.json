@@ -353,12 +353,27 @@
     },
     "1015153": {
      "files": [],
-     "fingerprint": "68b42a2e3983810ebb263994529ff772cddb1fd9",
+     "fingerprint": "908bd392c51eb4a233086f0cbac4b1a083ece6d7",
      "modname": "bigbluebuttonbn",
      "name": "Cours du 5/11",
-     "section": "Cours 7 Cours du 5/11",
+     "section": "Cours 7 Cours du 5/11 Lauber suite",
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/bigbluebuttonbn/view.php?id=1015153"
+    },
+    "1015962": {
+     "files": [
+      {
+       "filename": "Cours L3  Atelier 1418 ET LAUBER 6 .pdf",
+       "filesize": 9215356,
+       "timemodified": 1793896836
+      }
+     ],
+     "fingerprint": "a251450bcb605dab0ec8cbae381caf842b06bebf",
+     "modname": "resource",
+     "name": "Atelier 1418 et Lauber images du cours",
+     "section": "Cours 7 Cours du 5/11 Lauber suite",
+     "timemodified": 1793896836,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015962"
     },
     "932414": {
      "files": [],
