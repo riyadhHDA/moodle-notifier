@@ -495,6 +495,21 @@
      "timemodified": 1793279708,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008391"
     },
+    "1015857": {
+     "files": [
+      {
+       "filename": "CM8 (diaporama).pdf",
+       "filesize": 5708162,
+       "timemodified": 1793892297
+      }
+     ],
+     "fingerprint": "972657f54082d44d505bd391bf5e77bcbcbcecaa",
+     "modname": "resource",
+     "name": "CM8 (diaporama)",
+     "section": "CM8 : Des évolutions architecturales",
+     "timemodified": 1793892297,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015857"
+    },
     "933382": {
      "files": [],
      "fingerprint": "fcf5aa7fb0a11a3a5118f5149f16b253ec0e376a",
