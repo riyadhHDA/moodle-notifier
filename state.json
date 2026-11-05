@@ -1104,6 +1104,21 @@
      "timemodified": 1792514847,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1002571"
     },
+    "1015087": {
+     "files": [
+      {
+       "filename": "Romantisme_3.pdf",
+       "filesize": 4195110,
+       "timemodified": 1793863353
+      }
+     ],
+     "fingerprint": "910bf6e9965f3911a82a13ea02b7ff57a3fd71ec",
+     "modname": "resource",
+     "name": "Romantisme 3",
+     "section": "Power points du cours",
+     "timemodified": 1793863353,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015087"
+    },
     "241724": {
      "files": [],
      "fingerprint": "4d3c0bf24c252eece7b09e19af28539df762f87f",
