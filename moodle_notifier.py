@@ -747,7 +747,25 @@ def main(argv=None) -> int:
 
     try:
         conf = load_courses_config(cfg.courses_file)
-        courses = resolve_courses(client, conf, cfg)
+        try:
+            courses = resolve_courses(client, conf, cfg)
+        except MoodleTokenExpired as exc:
+            log.error(
+                "Jeton Moodle invalide ou expiré (%s). Régénère un jeton API "
+                "(procédure dans le README), mets à jour MOODLE_TOKEN dans le secret "
+                "MOODLE_ENV, puis relance.",
+                exc,
+            )
+            return 1
+        except MoodleAPIError as exc:
+            # Moodle indisponible / en maintenance : on ne fait pas échouer le job,
+            # sinon GitHub envoie un e-mail d'échec à chaque passage (toutes les 5 min).
+            log.warning(
+                "Moodle indisponible ou en maintenance (%s) : passage ignoré, "
+                "nouvelle tentative au prochain cycle.",
+                exc,
+            )
+            return 0
         if not courses:
             log.error("Aucun cours résolu ; rien à faire.")
             return 1
