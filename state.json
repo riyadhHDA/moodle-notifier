@@ -1173,6 +1173,36 @@
      "timemodified": 1793863353,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015087"
     },
+    "1021080": {
+     "files": [
+      {
+       "filename": "Romantisme_4.pdf",
+       "filesize": 2701652,
+       "timemodified": 1794321806
+      }
+     ],
+     "fingerprint": "75cbed6bc334d3388f09df86d7c31752963cbd1f",
+     "modname": "resource",
+     "name": "Romantisme 4",
+     "section": "Power points du cours",
+     "timemodified": 1794321806,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1021080"
+    },
+    "1021081": {
+     "files": [
+      {
+       "filename": "Romantisme_5.pdf",
+       "filesize": 8994780,
+       "timemodified": 1794321813
+      }
+     ],
+     "fingerprint": "4e8dfad013363f7140863107782741dfc32d2173",
+     "modname": "resource",
+     "name": "Romantisme 5",
+     "section": "Power points du cours",
+     "timemodified": 1794321813,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1021081"
+    },
     "241724": {
      "files": [],
      "fingerprint": "4d3c0bf24c252eece7b09e19af28539df762f87f",
