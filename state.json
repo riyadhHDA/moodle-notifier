@@ -33,6 +33,21 @@
   "17080": {
    "initialized": true,
    "items": {
+    "1021595": {
+     "files": [
+      {
+       "filename": "IA-2027-chap2.pdf",
+       "filesize": 4351452,
+       "timemodified": 1794384840
+      }
+     ],
+     "fingerprint": "9862700a620a69aa3e844614f9913b3fac23655d",
+     "modname": "resource",
+     "name": "Chapitre 2",
+     "section": "Chapitre2 -&gt; en visio à 16h30 ! (15/10)",
+     "timemodified": 1794384840,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1021595"
+    },
     "593566": {
      "files": [],
      "fingerprint": "69ece3c7350b68603f9863e525ca2cbf5e71e89a",
@@ -71,21 +86,6 @@
      "section": "Chapitre 1",
      "timemodified": 1790871550,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=974012"
-    },
-    "996313": {
-     "files": [
-      {
-       "filename": "IA-2027-chap2.pdf",
-       "filesize": 4351528,
-       "timemodified": 1792079249
-      }
-     ],
-     "fingerprint": "ddeec720b63dfc49c2e849e804511025247f6709",
-     "modname": "resource",
-     "name": "Chapitre2",
-     "section": "Chapitre2 -&gt; en visio à 16h30 ! (15/10)",
-     "timemodified": 1792079249,
-     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=996313"
     }
    },
    "name": "Introduction à l'intelligence artificielle et à ses applications"
