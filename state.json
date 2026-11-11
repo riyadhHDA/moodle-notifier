@@ -495,21 +495,6 @@
   "25110": {
    "initialized": true,
    "items": {
-    "1008391": {
-     "files": [
-      {
-       "filename": "Planning - bibliographie.pdf",
-       "filesize": 393158,
-       "timemodified": 1793279708
-      }
-     ],
-     "fingerprint": "3b33f033a9abe9de069c1951c7f438596b64c9a3",
-     "modname": "resource",
-     "name": "Planning - bibliographie (màj 29/10/26)",
-     "section": "Généralités",
-     "timemodified": 1793279708,
-     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1008391"
-    },
     "1015857": {
      "files": [
       {
@@ -524,6 +509,21 @@
      "section": "CM8 : Des évolutions architecturales",
      "timemodified": 1793892297,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015857"
+    },
+    "1022015": {
+     "files": [
+      {
+       "filename": "Planning - bibliographie.pdf",
+       "filesize": 393299,
+       "timemodified": 1794409752
+      }
+     ],
+     "fingerprint": "7100627a161331ede6d1cd1eb129eea17b1c96a7",
+     "modname": "resource",
+     "name": "Planning - bibliographie (màj 10/11/26)",
+     "section": "Généralités",
+     "timemodified": 1794409752,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1022015"
     },
     "933382": {
      "files": [],
