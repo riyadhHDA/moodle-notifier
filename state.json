@@ -450,6 +450,21 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1023757"
     },
+    "1023903": {
+     "files": [
+      {
+       "filename": "cths-5074.pdf",
+       "filesize": 781601,
+       "timemodified": 1794502440
+      }
+     ],
+     "fingerprint": "39a191c737e5db2a0a1bfeee5b6cd8bfc402269c",
+     "modname": "resource",
+     "name": "Article L'hybridité de l'homme sauvage",
+     "section": "Cours du 12/11 Tapisseries bâloises et strasbourgeoises",
+     "timemodified": 1794502440,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023903"
+    },
     "932414": {
      "files": [],
      "fingerprint": "acb72cd63471544d5b98e0d5ab12f4d50a5c42ec",
