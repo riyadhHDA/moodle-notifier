@@ -48,6 +48,21 @@
      "timemodified": 1794384840,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1021595"
     },
+    "1023946": {
+     "files": [
+      {
+       "filename": "IA-2027-chap34light.pdf",
+       "filesize": 6807431,
+       "timemodified": 1794502815
+      }
+     ],
+     "fingerprint": "7fb7ae01e4bab8ff38219220e78494f9041b691b",
+     "modname": "resource",
+     "name": "Chapitres 3&amp;4",
+     "section": "Chapitres 3 et 4 (12/11)",
+     "timemodified": 1794502815,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023946"
+    },
     "593566": {
      "files": [],
      "fingerprint": "69ece3c7350b68603f9863e525ca2cbf5e71e89a",
