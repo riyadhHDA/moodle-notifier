@@ -408,6 +408,21 @@
      "timemodified": 1794484158,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023201"
     },
+    "1023727": {
+     "files": [
+      {
+       "filename": "L3 Tapisserie 1_2_compressed.pdf",
+       "filesize": 6039289,
+       "timemodified": 1794496626
+      }
+     ],
+     "fingerprint": "0ec7d35b6197431169cad9fa52f3d8c84765978f",
+     "modname": "resource",
+     "name": "Images du cours Tapisserie",
+     "section": "Cours du 12/11 Tapisseries bâloises et strasbourgeoises",
+     "timemodified": 1794496626,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023727"
+    },
     "932414": {
      "files": [],
      "fingerprint": "acb72cd63471544d5b98e0d5ab12f4d50a5c42ec",
