@@ -377,12 +377,21 @@
     },
     "1022577": {
      "files": [],
-     "fingerprint": "39aa2062c8ef91d21eae12d76bf75db91a61baa2",
+     "fingerprint": "d77b3f8b34c21df01a2e35af98c06d4f2b711dd4",
      "modname": "bigbluebuttonbn",
      "name": "Cours du 12/11",
-     "section": "Cours du 12/11",
+     "section": "Cours du 12/11 Tapisseries bâloises et strasbourgeoises",
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/bigbluebuttonbn/view.php?id=1022577"
+    },
+    "1023191": {
+     "files": [],
+     "fingerprint": "e145b71c89db750504517da0bdc3431a68cd28fb",
+     "modname": "url",
+     "name": "Vidéo tapisserie",
+     "section": "Cours du 12/11 Tapisseries bâloises et strasbourgeoises",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1023191"
     },
     "932414": {
      "files": [],
