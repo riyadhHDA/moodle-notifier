@@ -393,6 +393,36 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1023191"
     },
+    "1023201": {
+     "files": [
+      {
+       "filename": "l_art_de_la_tapisserie_au_palais_du_tau.pdf",
+       "filesize": 6549203,
+       "timemodified": 1794484158
+      }
+     ],
+     "fingerprint": "3fed254b3841298ec0252f09a361574786db0b14",
+     "modname": "resource",
+     "name": "Dossier Art de la tapisserie",
+     "section": "Cours du 12/11 Tapisseries bâloises et strasbourgeoises",
+     "timemodified": 1794484158,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023201"
+    },
+    "1023202": {
+     "files": [
+      {
+       "filename": "l_art_de_la_tapisserie_au_palais_du_tau.pdf",
+       "filesize": 6549203,
+       "timemodified": 1794484163
+      }
+     ],
+     "fingerprint": "fa9d1e6f046d1711131a20dc653af8abfc642a26",
+     "modname": "resource",
+     "name": "Dossier Art de la tapisserie",
+     "section": "Cours du 12/11 Tapisseries bâloises et strasbourgeoises",
+     "timemodified": 1794484163,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023202"
+    },
     "932414": {
      "files": [],
      "fingerprint": "acb72cd63471544d5b98e0d5ab12f4d50a5c42ec",
