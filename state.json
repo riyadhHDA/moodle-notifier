@@ -630,6 +630,21 @@
      "timemodified": 1794409752,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1022015"
     },
+    "1025250": {
+     "files": [
+      {
+       "filename": "CM9 (diaporama).pdf",
+       "filesize": 10023656,
+       "timemodified": 1794583261
+      }
+     ],
+     "fingerprint": "7e8451cf5e5dc97d96e5c0eead59fd600e9fe903",
+     "modname": "resource",
+     "name": "CM9 (diaporama)",
+     "section": "CM9 : L’image au château",
+     "timemodified": 1794583261,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1025250"
+    },
     "933382": {
      "files": [],
      "fingerprint": "fcf5aa7fb0a11a3a5118f5149f16b253ec0e376a",
