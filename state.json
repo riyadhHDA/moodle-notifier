@@ -3,6 +3,21 @@
   "16191": {
    "initialized": true,
    "items": {
+    "1027071": {
+     "files": [
+      {
+       "filename": "CM 1.pptx",
+       "filesize": 6917526,
+       "timemodified": 1794817534
+      }
+     ],
+     "fingerprint": "0cba1b6f13f632431b21bce35665ab87856c18a0",
+     "modname": "resource",
+     "name": "CM 1",
+     "section": "Topic 1",
+     "timemodified": 1794817534,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027071"
+    },
     "562849": {
      "files": [],
      "fingerprint": "e2c6bad6c2fd76870bc2942e656d959e86711fe5",
