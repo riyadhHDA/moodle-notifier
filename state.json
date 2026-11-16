@@ -18,6 +18,21 @@
      "timemodified": 1794817534,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027071"
     },
+    "1027077": {
+     "files": [
+      {
+       "filename": "CM2.pptx",
+       "filesize": 10198811,
+       "timemodified": 1794817702
+      }
+     ],
+     "fingerprint": "ee03b270b23e6b085f8ad713a715d03a0d2456e2",
+     "modname": "resource",
+     "name": "CM2",
+     "section": "Topic 1",
+     "timemodified": 1794817702,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027077"
+    },
     "562849": {
      "files": [],
      "fingerprint": "e2c6bad6c2fd76870bc2942e656d959e86711fe5",
