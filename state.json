@@ -63,6 +63,21 @@
      "timemodified": 1794818185,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027095"
     },
+    "1027131": {
+     "files": [
+      {
+       "filename": "Arcellaschi, Bucolique Arcadie.pdf",
+       "filesize": 591229,
+       "timemodified": 1794819111
+      }
+     ],
+     "fingerprint": "50fb6932406a290e3f262f6c34972f3292890fa9",
+     "modname": "resource",
+     "name": "Article sur l'Arcadie antique",
+     "section": "Topic 1",
+     "timemodified": 1794819111,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027131"
+    },
     "562849": {
      "files": [],
      "fingerprint": "e2c6bad6c2fd76870bc2942e656d959e86711fe5",
