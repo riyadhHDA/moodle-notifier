@@ -78,6 +78,36 @@
      "timemodified": 1794819111,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027131"
     },
+    "1027155": {
+     "files": [
+      {
+       "filename": "Collin, Poétique de lArcadie.pdf",
+       "filesize": 1961780,
+       "timemodified": 1794819388
+      }
+     ],
+     "fingerprint": "acaaddfa33ce94db827229ee35cdfcadeb2367d9",
+     "modname": "resource",
+     "name": "Article poétique de l'Arcadie",
+     "section": "Topic 1",
+     "timemodified": 1794819388,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027155"
+    },
+    "1027164": {
+     "files": [
+      {
+       "filename": "Du_Songe_de_Poliphile_a_la_Grande_Grotte_de_Boboli.pdf",
+       "filesize": 193535,
+       "timemodified": 1794819495
+      }
+     ],
+     "fingerprint": "3e9cd93b1623fcfe254e8b9551e041f94abf6094",
+     "modname": "resource",
+     "name": "Article pour la suite des cours (pas pour l'examen)",
+     "section": "Topic 1",
+     "timemodified": 1794819495,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027164"
+    },
     "562849": {
      "files": [],
      "fingerprint": "e2c6bad6c2fd76870bc2942e656d959e86711fe5",
