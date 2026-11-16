@@ -357,6 +357,15 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1011361"
     },
+    "1011423": {
+     "files": [],
+     "fingerprint": "c30d999d713556047b44151f6b9138c1d86f4eb0",
+     "modname": "url",
+     "name": "L'aquatinte",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1011423"
+    },
     "1014817": {
      "files": [
       {
@@ -371,6 +380,42 @@
      "section": "Supports de cours",
      "timemodified": 1793817564,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1014817"
+    },
+    "1028334": {
+     "files": [],
+     "fingerprint": "4759f44c192558edc0d2965328c05c6899aca9e6",
+     "modname": "url",
+     "name": "L'aquatinte à la poupée",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1028334"
+    },
+    "1028337": {
+     "files": [],
+     "fingerprint": "9906bc1668fd651eecb97b0e534211ac20ffd556",
+     "modname": "url",
+     "name": "Le monotype",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1028337"
+    },
+    "1028341": {
+     "files": [],
+     "fingerprint": "9817303b56bf792db291c14148fa77be63909ad4",
+     "modname": "url",
+     "name": "L'aquatinte en couleur par repérage",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1028341"
+    },
+    "1028349": {
+     "files": [],
+     "fingerprint": "4c09c5823ad940352be6dcff2ea2cf7b962a8e41",
+     "modname": "url",
+     "name": "L'eau-forte en couleur par repérage",
+     "section": "Ressources vidéo",
+     "timemodified": 0,
+     "url": "https://moodle.unistra.fr/mod/url/view.php?id=1028349"
     },
     "912920": {
      "files": [],
