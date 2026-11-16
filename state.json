@@ -33,6 +33,36 @@
      "timemodified": 1794817702,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027077"
     },
+    "1027094": {
+     "files": [
+      {
+       "filename": "CM 3.pptx",
+       "filesize": 8048055,
+       "timemodified": 1794818160
+      }
+     ],
+     "fingerprint": "3c9a5e2aa0d68731584528ba0139319a36de9772",
+     "modname": "resource",
+     "name": "CM 3",
+     "section": "Topic 1",
+     "timemodified": 1794818160,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027094"
+    },
+    "1027095": {
+     "files": [
+      {
+       "filename": "CM 4.pptx",
+       "filesize": 9068892,
+       "timemodified": 1794818185
+      }
+     ],
+     "fingerprint": "25515960b7ce663c2a174f8f88416cb3668ca3d0",
+     "modname": "resource",
+     "name": "CM 4",
+     "section": "Topic 1",
+     "timemodified": 1794818185,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1027095"
+    },
     "562849": {
      "files": [],
      "fingerprint": "e2c6bad6c2fd76870bc2942e656d959e86711fe5",
