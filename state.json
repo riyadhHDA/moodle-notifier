@@ -426,6 +426,21 @@
      "timemodified": 0,
      "url": ""
     },
+    "1031994": {
+     "files": [
+      {
+       "filename": "CM 10 PPT_compressed.pdf",
+       "filesize": 8588448,
+       "timemodified": 1795021412
+      }
+     ],
+     "fingerprint": "2d83506e4e61272042c3c9bcd2696cb9a7cf473a",
+     "modname": "resource",
+     "name": "CM 10 PPT",
+     "section": "Supports de cours",
+     "timemodified": 1795021412,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1031994"
+    },
     "912920": {
      "files": [],
      "fingerprint": "1d473c2227eb4a2029573742aa6e46d89fdea5f4",
