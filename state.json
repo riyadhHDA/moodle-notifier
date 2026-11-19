@@ -663,6 +663,21 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/bigbluebuttonbn/view.php?id=1032795"
     },
+    "1033259": {
+     "files": [
+      {
+       "filename": "L 3 TAPISSERIES 2 2_compressed.pdf",
+       "filesize": 5847757,
+       "timemodified": 1795101019
+      }
+     ],
+     "fingerprint": "d860ce7c03748b4453c67234ef0fdc4b7cd082f2",
+     "modname": "resource",
+     "name": "Tapisseries images du cours 2/2",
+     "section": "Tapisseries (suite) cours du 19/11",
+     "timemodified": 1795101019,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1033259"
+    },
     "932414": {
      "files": [],
      "fingerprint": "acb72cd63471544d5b98e0d5ab12f4d50a5c42ec",
