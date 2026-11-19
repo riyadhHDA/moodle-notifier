@@ -168,6 +168,21 @@
      "timemodified": 1794502815,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1023946"
     },
+    "1033497": {
+     "files": [
+      {
+       "filename": "IA-2027-chap5light.pdf",
+       "filesize": 2327033,
+       "timemodified": 1795107135
+      }
+     ],
+     "fingerprint": "b4581ad3bcb5d03d453c89d3464447bae61ba903",
+     "modname": "resource",
+     "name": "Chapitre 5",
+     "section": "Chapitre 5 (19/11)",
+     "timemodified": 1795107135,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1033497"
+    },
     "593566": {
      "files": [],
      "fingerprint": "69ece3c7350b68603f9863e525ca2cbf5e71e89a",
