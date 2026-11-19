@@ -1566,6 +1566,21 @@
      "timemodified": 0,
      "url": "https://moodle.unistra.fr/mod/url/view.php?id=1013786"
     },
+    "1032695": {
+     "files": [
+      {
+       "filename": "Message des Doyens de notre Faculté, au 19 novembre 2026 - Décision CC en ABJ.pdf",
+       "filesize": 73949,
+       "timemodified": 1795081172
+      }
+     ],
+     "fingerprint": "f960fb9911003d1dffd005c7335b1cc994b07083",
+     "modname": "resource",
+     "name": "Message des Doyens de notre Faculté, au 19 novembre 2026 : décision, des Conseils décisionnaires, concernant les CC",
+     "section": "Préambule",
+     "timemodified": 1795081172,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1032695"
+    },
     "348436": {
      "files": [],
      "fingerprint": "0eec459fb13af2f9530545343e6b99880f359049",
@@ -2687,6 +2702,15 @@
      "section": "Préambule",
      "timemodified": 1785141153,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=893316"
+    },
+    "893412": {
+     "files": [],
+     "fingerprint": "46d6c61bece6aedcee30961314c8176da185de18",
+     "modname": "label",
+     "name": "👋👋👋 Point focus du moment :",
+     "section": "Préambule",
+     "timemodified": 0,
+     "url": ""
     },
     "893913": {
      "files": [],
