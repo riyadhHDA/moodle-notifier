@@ -837,21 +837,6 @@
      "timemodified": 1793892297,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1015857"
     },
-    "1022015": {
-     "files": [
-      {
-       "filename": "Planning - bibliographie.pdf",
-       "filesize": 393299,
-       "timemodified": 1794409752
-      }
-     ],
-     "fingerprint": "7100627a161331ede6d1cd1eb129eea17b1c96a7",
-     "modname": "resource",
-     "name": "Planning - bibliographie (màj 10/11/26)",
-     "section": "Généralités",
-     "timemodified": 1794409752,
-     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1022015"
-    },
     "1025250": {
      "files": [
       {
@@ -866,6 +851,21 @@
      "section": "CM9 : L’image au château",
      "timemodified": 1794583261,
      "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1025250"
+    },
+    "1034761": {
+     "files": [
+      {
+       "filename": "Planning - bibliographie.pdf",
+       "filesize": 393073,
+       "timemodified": 1795179309
+      }
+     ],
+     "fingerprint": "42d2844ba9dc3374c7189fa1102553eebc6cfcea",
+     "modname": "resource",
+     "name": "Planning - bibliographie (màj 20/11/26)",
+     "section": "Généralités",
+     "timemodified": 1795179309,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1034761"
     },
     "933382": {
      "files": [],
