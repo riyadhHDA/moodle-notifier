@@ -1410,6 +1410,21 @@
   "26064": {
    "initialized": true,
    "items": {
+    "1035321": {
+     "files": [
+      {
+       "filename": "Stage 1.pdf",
+       "filesize": 653758,
+       "timemodified": 1795250690
+      }
+     ],
+     "fingerprint": "8b4c4666e08e9e79b2fb19c442d8cb1f8f499674",
+     "modname": "resource",
+     "name": "diapo stage 1",
+     "section": "II. Stages intensifs de fin de semestre",
+     "timemodified": 1795250690,
+     "url": "https://moodle.unistra.fr/mod/resource/view.php?id=1035321"
+    },
     "965403": {
      "files": [],
      "fingerprint": "f458b0426cf37f638258a1082561eacf4b0cc829",
